@@ -1,0 +1,3087 @@
+{
+  "accounts": {
+    "0xe1b0997c5729ca4a23d08f7304428b84db09cc82": {
+      "liquidity": "23665820588118633",
+      "shortfall": "0"
+    },
+    "0x2840af6f287d329237c8addc5500c349e041c5bb": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa3143ee66a26fa769460d6f8ce04c138a09fbdf9": {
+      "liquidity": "3229330681324",
+      "shortfall": "0"
+    },
+    "0x7c984c84801f039fb6b4d6304ce37a5ce87905a4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5e959d62d6dbd5b3e7fe043a4af1f9f65f0097b9": {
+      "liquidity": "0",
+      "shortfall": "7121299378252652565199"
+    },
+    "0xaa3c5b51eaff1c73107d0427852f4e7ee8a4af12": {
+      "liquidity": "17470877168934080",
+      "shortfall": "0"
+    },
+    "0x25450668802e6174dda972f56f103cdb228e1343": {
+      "liquidity": "0",
+      "shortfall": "18151895832451330344188"
+    },
+    "0xbf970127652bc887baa8837f84f0d1ca50a706da": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x36180b7b7da179869cf5d8fb89f5bd44df538829": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe729986a4b0aec7f13321c9376f1b6c7ac4f8585": {
+      "liquidity": "16235588588538230",
+      "shortfall": "0"
+    },
+    "0xcd63481ff38c1d88aa92ce189d8d9b56945c03d1": {
+      "liquidity": "0",
+      "shortfall": "37147621002867"
+    },
+    "0x455d7eb74860d0937423b9184f9e8461aa354ebb": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x01e6fd0ae73d9194b19f9b376065577927a0d5f5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4ba245c3d3ee8509e7470fa86ef921ad4a8fcd58": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9e8073406ce51835e9a61398bed71640ce6cc258": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xbdfa4f4492dd7b7cf211209c4791af8d52bf5c50": {
+      "liquidity": "6300268495877",
+      "shortfall": "0"
+    },
+    "0x1d0adcc97f7bb8af13e2c9cfa9d6595d44832a11": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x47e33894ed60a691a5c795325dae461363863c8c": {
+      "liquidity": "16647230585750",
+      "shortfall": "0"
+    },
+    "0xb25f4d199e510b6da75fc8acf44efc8f793baa8f": {
+      "liquidity": "47076518830747921",
+      "shortfall": "0"
+    },
+    "0xbd06a7182c2a6c510c34242a5aaa9717f2aa80f2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x3c229864378b3b0adf98ae247ca33986aed8ec1e": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x12a0dd19d3f878697c7a1f804aaa1da84229566c": {
+      "liquidity": "908922407079930285331",
+      "shortfall": "0"
+    },
+    "0x655b2524e9bcab88ab7555b1660238af6a46744e": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x07bdf969e8950725de08ecb229e6e4663f4073b6": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5c0738c3f68f390f29c19a7d6fe90351b1af075f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x7e6d4318e48edf787ec4d0a231ba2850bc4dcf01": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xdc954732637631bf0196f068bfee33a7dfde8fe3": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa5bd95f3fd95c536c1e50edf5e115018e3db8e96": {
+      "liquidity": "3052531075211817",
+      "shortfall": "0"
+    },
+    "0xc4ed4b165463a4bf484f938656e9a9843fa299c8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa87c96a63f91e48933adb2343f0daf89592bf55c": {
+      "liquidity": "128483801549",
+      "shortfall": "0"
+    },
+    "0xa6a6844545b4b2e2b995416f6c511b2c7d29bdad": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc4d8ff285851af78522b14221432a8b23273cf73": {
+      "liquidity": "0",
+      "shortfall": "1154761316372578476419"
+    },
+    "0xe4b0ff73d94fb2c717022923aef6d7c34e3a330d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x7c1645b5a844d73b7dba7b5ab4d3de55e79bed93": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xef330b1cfe349924c75e210ffae619d5a04d6d63": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9c7aa045914860a271218cdb681ae65690e97813": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x24dff8b74c6dcc89fcf64218ee0fa627f0907ced": {
+      "liquidity": "90748257733615",
+      "shortfall": "0"
+    },
+    "0xe78b2a54e94250c9fce8884816a5f60c34173ce8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x50a5b95b2b25aecb30c331cb76bc73fe91102b06": {
+      "liquidity": "4729811990432506",
+      "shortfall": "0"
+    },
+    "0x93cd7c281e94811c37acef9d368e53bd10d10f57": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x627cb0dd56dd7f90302ecb1b02bbe7063bf2683d": {
+      "liquidity": "1516184175188",
+      "shortfall": "0"
+    },
+    "0xc67dcead81b78f112bfa390772856538a0432bc6": {
+      "liquidity": "0",
+      "shortfall": "14617792136515082070086"
+    },
+    "0xe81974de49acb0f2275f010721ed71fcf9911ad6": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x1f85eede8ef9289cf8d8ccdf3edf2b281b31cb8b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x6aef790386923b51188898021a607d7c977fcd65": {
+      "liquidity": "38950881137154",
+      "shortfall": "0"
+    },
+    "0xb7656fd70e11e6ef21dbe2449151320b8021dd7e": {
+      "liquidity": "94856996",
+      "shortfall": "0"
+    },
+    "0x16f7773b109662294be355d9c554fbfe2ef24147": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x944ca47ccb69a3e32db161e8ef160efb3308143a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x1594121b96b7664e16e4b2498ff0c5239bfcffac": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x699815427724b0ac29fc2f2ffd32fe7ee07746df": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xbaff35e77e6230374c4e6120a2045ae10fe30731": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x578bd31b74941eed1a0c924130fef47181766a42": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x987dbb46ce510407ce78dd2599fc033cdb8a680b": {
+      "liquidity": "458228195",
+      "shortfall": "0"
+    },
+    "0x430aa09d4b3564aaedf7597faf8e9a82d15565ef": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd60437da0ede89eb8159195140fafe7c7b2ecd97": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x6b2b6c9f8ffc582046c0348e2f450ea1286c5382": {
+      "liquidity": "1848697531359662538179",
+      "shortfall": "0"
+    },
+    "0x59d26fc8304d0d84e1ff27ac98b5473bf93e1097": {
+      "liquidity": "1088267756196259",
+      "shortfall": "0"
+    },
+    "0xca2563bb6535fff8e1e54062fe29bb22a0f738af": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5378e749d3c7f7507bb6cd40d4b4a4e806e5af35": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xaa8a7b9c3ab7214d82c6513c7c526bce66257d78": {
+      "liquidity": "26881715551",
+      "shortfall": "0"
+    },
+    "0x1562c2ee31057a667c33f4b013551780a1101b3b": {
+      "liquidity": "3040752179651767",
+      "shortfall": "0"
+    },
+    "0x72e30bd8d69311fad86dcb8c7edf46294b432343": {
+      "liquidity": "47428498",
+      "shortfall": "0"
+    },
+    "0x4ee7290a442be8ba264538f4cd12d4cd8125c1b1": {
+      "liquidity": "7360756560971836155",
+      "shortfall": "0"
+    },
+    "0x1cfebaf7db3b9e77d987cce04581177ed9f8083e": {
+      "liquidity": "0",
+      "shortfall": "518469502925658410088"
+    },
+    "0xc69eaabb81739ea91970fe5425fd97e7611bd545": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xfef49c6e8e1e5fcbcb75b23b31008209c54c6cbe": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xaafe5300ecebe76f995906fb73af448406e944be": {
+      "liquidity": "136561517363714",
+      "shortfall": "0"
+    },
+    "0xd8be4e27358ae0cf64bfa94f20e8dc107589ce1b": {
+      "liquidity": "397166243697",
+      "shortfall": "0"
+    },
+    "0x89347e3b27e2221a122151401849fbbabdce1f54": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x90a15be52678e6e2fc337fff9c78f2d6885c90b7": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x317f5502c7f6d833b43541ab76533571a31c4241": {
+      "liquidity": "2072959016577122",
+      "shortfall": "0"
+    },
+    "0xe546e60d8cc8a85cf103d7b174bf1692dfa3f838": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x6c15f3f8dd7418effc9090d54285f8e2af4d94a7": {
+      "liquidity": "25706246009",
+      "shortfall": "0"
+    },
+    "0x21c7e5fdb25ace9a7f6776448da8297ca8af9468": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4d0086412718e00952018dd0566b3e4813f99867": {
+      "liquidity": "2371382160470005691",
+      "shortfall": "0"
+    },
+    "0xeec037876fd654d4794e933f4b46da99ed7ace04": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0de9be5313a04587b1f6a74b55df436636761e06": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x891c068232e47ad9e9f219bed53802ef96a462b8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x62d9118f8ed16f23675a76fee1a6b853be810816": {
+      "liquidity": "6165593617259957595",
+      "shortfall": "0"
+    },
+    "0xe0079d48e0d1569100e9d50587dbec3d9ba8e815": {
+      "liquidity": "19040391946906917609",
+      "shortfall": "0"
+    },
+    "0x143a6d15999837d02d30f2beae9204f031afbf99": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc607c980b2ad8624fefcdd57a4fd8b3f7dfaef23": {
+      "liquidity": "0",
+      "shortfall": "25733713874577209337317"
+    },
+    "0x2210ef8fe0b56a7ea0d3ae77ac6fd1c1dec8a9ba": {
+      "liquidity": "144894061917",
+      "shortfall": "0"
+    },
+    "0xf817a6c8bc5de3cd621af036ce1a5a1af6b05f22": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe36d7960aeaf9d6f23ef140ca7a5f358d6c78f4b": {
+      "liquidity": "0",
+      "shortfall": "1006372749158830933651"
+    },
+    "0x801a485a0b1322d1b21e70a258b11814ad1d79eb": {
+      "liquidity": "2358916854630370152868",
+      "shortfall": "0"
+    },
+    "0xefc1ad4d6c721de3798ff989a39181b982e80d8e": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x95091aaab36d0ea35ff54213d25c1bd76b4392f4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x32dcf951fb54f15e8ec3aa269856dc0b4a8f1369": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5b59c77c0a6ead3a2a1dfb610c94821985c27161": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x12c05e516f9709e266a9293b9b5c452e63fc241d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc9905da06ed8ea0e1ce5fb11e95c1b062a29e59d": {
+      "liquidity": "12173008243174",
+      "shortfall": "0"
+    },
+    "0x896002e29fe4cda28a3ae139b0bf7bac26b33a8c": {
+      "liquidity": "79878507480285",
+      "shortfall": "0"
+    },
+    "0x7f85cf44e446a4b1aace2a28774e88cd6d4e3441": {
+      "liquidity": "8160189260059016",
+      "shortfall": "0"
+    },
+    "0xb04c7194093f4f8a58686a1d28bb3c39365781ee": {
+      "liquidity": "0",
+      "shortfall": "2027631773761553"
+    },
+    "0x19bb9054b006e152aebb633fe3f62e47bcef8be7": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x95d17cb1191b067d73a38ec2481911657d8d1ec8": {
+      "liquidity": "82174805647809",
+      "shortfall": "0"
+    },
+    "0x6c3036cd677f721c86eaf4dbbef4188ca81aad11": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf83b01129291b6d893b156f973e90b2f58f5a1b2": {
+      "liquidity": "6664356217739633003",
+      "shortfall": "0"
+    },
+    "0x32e6f7e815a0135cbbac546ebaf852fe13adb6e2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x717f4308208827bc51982df8f8fb28e49cd6d540": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x19c77f64dbfd75ddd278471791d7ce5c1023e307": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x6a8641c1e84cb958c6e465b27318e5bf1f79dc48": {
+      "liquidity": "26009964651306831270805",
+      "shortfall": "0"
+    },
+    "0x0257ffe501e6d7670c5510b6d8a558eddea79475": {
+      "liquidity": "146151974951936709524",
+      "shortfall": "0"
+    },
+    "0xc1b5bcbc94e6127ac3ee4054d0664e4f6afe45d3": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb138cf648a69913bb2bfe3a488032b6b741c2545": {
+      "liquidity": "1348344774548",
+      "shortfall": "0"
+    },
+    "0x2400589fb91bb742f6d604b1577632356adebb2c": {
+      "liquidity": "2756109758076178",
+      "shortfall": "0"
+    },
+    "0x0f4c777b170bc2e2d48be6ece10b43d7ba5a9999": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x3a542300159d084382e228ec8f54a402451e5a67": {
+      "liquidity": "17891155375543313920",
+      "shortfall": "0"
+    },
+    "0x3c24d14bd4c0d7c1c8cbef44719e9b526874fad0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x3ce67c19c7281cd838f9cd6900bce553a17cb75d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x96cfc952e0a0630807db61dfa16622380289dabf": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb8cebb8bd64b10ffd2208678bbdd2673e6582243": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9378e6ed029055c69f2352268ae5d214614f2f41": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4ccb082a48975b03061da360271e6ce1f6e1bcc9": {
+      "liquidity": "483717808591749",
+      "shortfall": "0"
+    },
+    "0x66f02e34ce51397d9ecee0bec87e09ef9d67993e": {
+      "liquidity": "64110711500972728552",
+      "shortfall": "0"
+    },
+    "0xb084dd459c12224036a5e400be39c9a0aad1b47c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd9e2f80261fdd4330d8e35bb9e9be990f53f5702": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc7bd798519b38f4d9f424f8764424c54f653c38a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x8d7a5fedf55b68625b2e5953f8203b029cb9c44e": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x589f24cc3bba5bf077009c22c25bf6829a588e53": {
+      "liquidity": "1051057968010291",
+      "shortfall": "0"
+    },
+    "0xe89150ded8556305e7bd6fd5acbf76af6d974c04": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x57c18bf71c60c7f024ab3a1a9b401175b04bf1ab": {
+      "liquidity": "39689887834445185",
+      "shortfall": "0"
+    },
+    "0xea944340c5b3197f3fb253d6a1cc13dfbcccad78": {
+      "liquidity": "1388159788846032",
+      "shortfall": "0"
+    },
+    "0x33765a943d510c65537ed9c609079fdd5331be70": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xbfcbb2c5f54313ea8945777a4ee6141420c67e0b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x79e3b3795ab351d89120aed570ef748185581718": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa4517a2b21f85f6a6a63601cea7fa4e34da92856": {
+      "liquidity": "17255545053552246",
+      "shortfall": "0"
+    },
+    "0x2bf6cf92fd73feaa136ba8163bc86fe9cf0c08dc": {
+      "liquidity": "100864543998168865",
+      "shortfall": "0"
+    },
+    "0xd2c0884ae6950bf8cac1b91eb181449a087f58e1": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x1b639de14ddbb3cbfb9a10a1718a9514407d3260": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd13003bc65aa783c18d83dbb4deaf3fc1d6b3a85": {
+      "liquidity": "238957683215240677766",
+      "shortfall": "0"
+    },
+    "0xfe5a0963409609243a819a28034505567418b32c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4c55af76789191eba1a79d84f8008b0e4c4007b9": {
+      "liquidity": "118767883984879",
+      "shortfall": "0"
+    },
+    "0x930145690253537e9a9a246b4524720a0f3bef0c": {
+      "liquidity": "0",
+      "shortfall": "6083955206358172354900"
+    },
+    "0xe1081b3dc3ff3695fe31597ff99b00cc2219aeaa": {
+      "liquidity": "0",
+      "shortfall": "42207362350092923661"
+    },
+    "0x5614c860bfcb8d8ea59e14c8aee0b3f73511cd5b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x6e319c4e3482008f7c514c5f6d788dc0ebf3835e": {
+      "liquidity": "189987350358440698943",
+      "shortfall": "0"
+    },
+    "0xc5e3b3832c918ff4803a1cd433bd96318762a6f8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf2f8bff6ec2b77fe7f66fdb27c1465e03d3915f6": {
+      "liquidity": "19967397730",
+      "shortfall": "0"
+    },
+    "0xded76013ab612366830edf3fc206c06f2a475022": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb69df34e03722fadf58f35940b84d255139302d5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0f8c6906b3859aef29a3c4825b189a813556987f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5ec521bc72fc2039f20f422688c602e8511a5739": {
+      "liquidity": "193346428210514",
+      "shortfall": "0"
+    },
+    "0x15c057868bb6d0304555ab20a614de94aaa25290": {
+      "liquidity": "0",
+      "shortfall": "272694868883985419664"
+    },
+    "0x8f00dde4f0e3641c75c7a7e924c811198f90ef30": {
+      "liquidity": "165538466102003767",
+      "shortfall": "0"
+    },
+    "0x039a33aca90ecfc1b97f88de30264ebd84cc7c22": {
+      "liquidity": "230533256812072432431",
+      "shortfall": "0"
+    },
+    "0x0d133a56c703174d5de3a9677dbae485bc9b381a": {
+      "liquidity": "19377967948",
+      "shortfall": "0"
+    },
+    "0x0dd7fe601593947f54d084f1fd2892064044e6d8": {
+      "liquidity": "473330869183757773",
+      "shortfall": "0"
+    },
+    "0x396932cf21d7a37eb8db923d669fcd5bc0c751d2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x733ab147ef8f4efea84ced248f1afe74fbe21582": {
+      "liquidity": "7164331853714166",
+      "shortfall": "0"
+    },
+    "0x8fa2a5bafa13e4004b6676bc6842687b208f34c5": {
+      "liquidity": "458227126165483194998",
+      "shortfall": "0"
+    },
+    "0xd8abbc1aac264f84d3aae1e6e501fe8ec3eb99d1": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xddd65fbcc456e559e6b490fdcf6c501b96af0632": {
+      "liquidity": "73510248825701711101",
+      "shortfall": "0"
+    },
+    "0x1a90c9da4c3e3dd7eada67d6a09c4828417d4aca": {
+      "liquidity": "96164173183299",
+      "shortfall": "0"
+    },
+    "0xad2d2ed3b964d3421d5bb62bd7cba8ffdbbe4c74": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xad36c2a253dedd7fe5a79cd0841dc078d7a093b9": {
+      "liquidity": "110114211948347696508",
+      "shortfall": "0"
+    },
+    "0x2373a594529cd4261f9cd5ecc626a89065139822": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xcb967d3ee15bd57ab01efaa81d0a67bc55d41394": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9b1ac8e6d08053c55713d9aa8fde1c53e9a929e2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x02b72485ecdaabd5f9af68d9a5d2b2ca54d5339b": {
+      "liquidity": "611340736346238145523",
+      "shortfall": "0"
+    },
+    "0xc01eca3e94d17e5a0821aadd89a44a9a2e927a02": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x440577f8e3f2b46ee105551cfa6098fef925d3da": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x28c7e1473f829707b4b1a06e84a46c9448aa9b62": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x062faad316528922b36fc258e08502337ca1f31c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xbe99921051e54d1e7e151bb87e7908ecc65f3111": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x442eead2edb0ef4b75833fad04b49601e47819c8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5380bd450256b17c326487fba24c088911f6f4eb": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x87fc1313880d579039ac48db8b25428ed5f33c4a": {
+      "liquidity": "3326560739103545588803",
+      "shortfall": "0"
+    },
+    "0x75fa742849340d0abc61c9e0a76a1b18acc80b07": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x939a036afcfddf272005ae37cefd300db0b01fb9": {
+      "liquidity": "10162474639857",
+      "shortfall": "0"
+    },
+    "0x7e98d97e0703a79299b65cb57a992a77a5079678": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x66d4b78ea4e64e7d1952d5b5e0aee54be18f9975": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x43f602b4e79d257e101ac79a7ddd5b0678d5f2f5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa61301a5199671ab6c5d2e21c718fddbdab778e3": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xbea6e129b88e8c563b5c36b81b34fb5678a360b1": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc492b52f7c5286750f4cc847eefa54fd18782c77": {
+      "liquidity": "2617957402109352157",
+      "shortfall": "0"
+    },
+    "0xde8ccede48c54145f2ca6045031d1f9833a32d1d": {
+      "liquidity": "30304189282606452536",
+      "shortfall": "0"
+    },
+    "0xb533c4da86afb2fa8fc5bf4ec2a854875c09c848": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xdc6f003a5152f5133f99be8dd354cdd6f9ecc252": {
+      "liquidity": "412597987046921537189",
+      "shortfall": "0"
+    },
+    "0x8e4c7a3c7ae9f94cfd5e7b2228df8eba2b329a45": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe3a8ef86b0b1d496b1f7e123eb5060b5993de1b4": {
+      "liquidity": "14839439321935174",
+      "shortfall": "0"
+    },
+    "0xaf5cbf9ad651de40bf0c8d5fd5f751956b51a51c": {
+      "liquidity": "7765794224598363686716",
+      "shortfall": "0"
+    },
+    "0x8c63c4789926aaee6fea8bb685f8107a8f9129a4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf3d44922cc039a3a36801dbe460f16303d0cc742": {
+      "liquidity": "853884853968953",
+      "shortfall": "0"
+    },
+    "0x2f5f03c22a1f8585a346ffeca71e4728d0d1cf9f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x6e5489d1f64f8d4ae0c7bdb4e490fdc064894789": {
+      "liquidity": "5181521520390010834803",
+      "shortfall": "0"
+    },
+    "0x46aaa27dbc0c4d4d1c8afb81e7e032d44e0fde36": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd88e3c23e9f71fcf2ee21a7438d34cc3a8ee6d04": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9a5d2e931bb9e02299dc87a6be263eb8984be99c": {
+      "liquidity": "1679889274375934581087",
+      "shortfall": "0"
+    },
+    "0x3543be68329d2646c3dfbc5ea67827427289c4b0": {
+      "liquidity": "587312362015779464175",
+      "shortfall": "0"
+    },
+    "0x8d4f08b86172742f34e438cbb7ee6d572408d861": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x831204031ae1944bf0e18d2b0b6abd0272153609": {
+      "liquidity": "69862526513004787282",
+      "shortfall": "0"
+    },
+    "0x4404c2f95a783684555ce449729770a37bb30414": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x01e8a979e7c5a1bb5c7af02a5f11263d0af4c19e": {
+      "liquidity": "182807742220116602983",
+      "shortfall": "0"
+    },
+    "0x3d01ecb4632c05e3f344868959f143df223963dd": {
+      "liquidity": "0",
+      "shortfall": "190500355835205998772"
+    },
+    "0x6d65b434f71a576bca4032eb49c791e3d1dc3cab": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab": {
+      "liquidity": "2504533123477382616514247",
+      "shortfall": "0"
+    },
+    "0xee5437757f19995a534c78699d3cb289b86d63c9": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4b1625006e9dd36b35ee63ff137522565a4feeb5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x75ddfa467a515e0fff27ce35af3cfd9091d857c4": {
+      "liquidity": "375875775543891080395",
+      "shortfall": "0"
+    },
+    "0x7ecbe5ffac898d2b4471d222792abfcbc6597c89": {
+      "liquidity": "6585572846304755890685",
+      "shortfall": "0"
+    },
+    "0xfa12d8a61e83afe09ace085020eb920a75bbff50": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x72fbbc8bca67426642b35f7d072b461dc4ae0ea0": {
+      "liquidity": "601698649288184",
+      "shortfall": "0"
+    },
+    "0x1a7021be4142186db64cbbc4b628b8bbb1cd5691": {
+      "liquidity": "25844025796731",
+      "shortfall": "0"
+    },
+    "0x833cc636c2a48ee7d404170b94706354a68d5e15": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x1905b0ac7fd4cedbd49889ba0e98bd35096b533d": {
+      "liquidity": "0",
+      "shortfall": "966819249800441620697"
+    },
+    "0x189ecebfa5d3c5ea82d5172b1069c3305a0a149a": {
+      "liquidity": "362098695994473792513838",
+      "shortfall": "0"
+    },
+    "0x25ebb70542cdfb7d64d684dc50669c2ea5c784ef": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x38c39202e3e8152b0467ffad0c080241c7834dae": {
+      "liquidity": "1926943134119493",
+      "shortfall": "0"
+    },
+    "0x7f4b42a4d7f0bda5efa20d44a1e6f4e209bdccfe": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x1a9f7852501ca762c90addcdd880d28d897265f8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x81f42e3e1bf38efc0d52ce6835e96768a4a4aef6": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb09327f2531f34b0f2d94371ebd05229bceda531": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x8643c722031a05fcbb12212804693b81ccf5a4d5": {
+      "liquidity": "484967079294152846",
+      "shortfall": "0"
+    },
+    "0xc457f29e240eab1032ab155be96dcfbd4f1423ed": {
+      "liquidity": "47179254401118999254",
+      "shortfall": "0"
+    },
+    "0x91ab25c1d5717e6bf3f4dc54562de8d9706f1950": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf5715272e0e7a077f244657563cff84c00ce727c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9c968a5570f57e12c7fc6783fdc1320e28efbfe8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x096de06b932da4c2805b0945cd4c2870efa16012": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9debadcaae4820092c8ff7dc741c9ec7d9e95027": {
+      "liquidity": "21617087014335920",
+      "shortfall": "0"
+    },
+    "0xc7ad881c1749cb51bf6b34987c841a7117675dad": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa7e75153c5c844980eaf0a079c788158404f11db": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2a4f94618a05e09bff52718e0ac3b8904344f064": {
+      "liquidity": "30086017298910353045",
+      "shortfall": "0"
+    },
+    "0xae7853a2ab2d63e2d9804a4dd848a4c7f035ebff": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc03cb8dc6d745bd14edb04d9903f575e14248ec9": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9651406c462ab29b15afc3bfda75e8d0bb644af8": {
+      "liquidity": "0",
+      "shortfall": "19164463394691653704"
+    },
+    "0xad59b03e636bd52d8ed1eece56a49d8eac327883": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4dd1ebf184ffb6098967d36f1ecfeb0e44bd42d3": {
+      "liquidity": "2265539638176910",
+      "shortfall": "0"
+    },
+    "0xf53cb5328a5d3fb2321046ffa2439bae26495505": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x07759bfb542723b5a89c5a927720bb8c299cd206": {
+      "liquidity": "435386309083569810032",
+      "shortfall": "0"
+    },
+    "0xa5f61adb1afd0a16714f2c36a8f78ef6bfc14b9c": {
+      "liquidity": "1146627931772542",
+      "shortfall": "0"
+    },
+    "0x4d1950bdb1451df636ce705ede3ba5942ad81616": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4f5fe8da30c1c11fe537730940ced62ac37ea371": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4f3b8f86d34569fbb36e6daaf5d50868bbb4ae4d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x277fff44da1468159383313ea309e0dc20bfe173": {
+      "liquidity": "464105279801519207",
+      "shortfall": "0"
+    },
+    "0x50dd8698a42ece1386a0a8f1f315a44acc1826b5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xab06efd9a0542f077265ed527fce8ee78ede9a3f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x572d25967ff49b54aa484e5e71ebcea9a13c58ac": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xeaadc3d9e7989a7f76df2e4159347a9d7af53a5d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xcba1a275e2d858ecffaf7a87f606f74b719a8a93": {
+      "liquidity": "2334959690787160112825",
+      "shortfall": "0"
+    },
+    "0x92af72ec27eb22a966c67a87be33c342acc0b77a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x1284af164b538f7099ae616e8b056d57675ff6f2": {
+      "liquidity": "8220708119727300",
+      "shortfall": "0"
+    },
+    "0x0d9a57161b4b20b1b2d0f6019c3eca4eea394b6b": {
+      "liquidity": "6330250316968725",
+      "shortfall": "0"
+    },
+    "0xa706ed4676204e1b9b3aa005cf8ab5c92d30a830": {
+      "liquidity": "623560193959559",
+      "shortfall": "0"
+    },
+    "0x935914ad4a126647af35378384d70c741892a5fa": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x27c27151f9bc6330b767bab8dcada11a253ccb8c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe65c24564aedf15dd226617edc37fa786b6bfa8e": {
+      "liquidity": "7561650463842049",
+      "shortfall": "0"
+    },
+    "0x67a26355ac3fd9d21afa2dffc66c69637fe62626": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x1c3154594a111da499f36f13850c1d00b94b7585": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x8d8bea3962ee60b35c138e62e656126bab9c8128": {
+      "liquidity": "8213205965811030",
+      "shortfall": "0"
+    },
+    "0x9420fdfcb670db7e97d2da5dd8b8f66b11309ab9": {
+      "liquidity": "19509713338061",
+      "shortfall": "0"
+    },
+    "0xce168ab473e4b951dc24f3f79686d0fc63660512": {
+      "liquidity": "973458262802599397344",
+      "shortfall": "0"
+    },
+    "0x41885e0ff1ad88fc45b37239e25b122cebec4336": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2edfc42e08889f1e36148d572913c8c6583caa10": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x8b80e230e290c41b4ad14ff076dfa4bff35311c0": {
+      "liquidity": "1109822935982721337",
+      "shortfall": "0"
+    },
+    "0x96bf637928168033236fddf2db92975f40f23ebe": {
+      "liquidity": "12161871486236803",
+      "shortfall": "0"
+    },
+    "0xbff54f0ac36e962607c77f4a79ec4ecd40c1b48c": {
+      "liquidity": "76827574984710925",
+      "shortfall": "0"
+    },
+    "0xa3115f13b7efed56e53005d2244f02497753b749": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x6e3387521e2c9e8379968ff097b0a34f9b52a52a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc044938f12d0ac9346917d0f71c5c539ea2715d2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xeb7079800698f088f8996061f0755a13adcdb0c8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x680a83579e48d4fafd11798369e10ac206cb56cb": {
+      "liquidity": "21469265613817894",
+      "shortfall": "0"
+    },
+    "0xa7d452ddf656e9c9eaad6dd07ad75302c913d33a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x8dd0f1c1bdef8e2c180df44d348db44494c54ea7": {
+      "liquidity": "359184102625527270108",
+      "shortfall": "0"
+    },
+    "0x474eac4a4d7932bd62abe165abd7d2b9f2e2f88d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x913618a54453f41dfbbb9d5c61396a0451fdf2a8": {
+      "liquidity": "553337415058039952",
+      "shortfall": "0"
+    },
+    "0xb22dfc8eb2f8c32e745e4bf6b9ca71c84c628ff5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe7539cb32c0f925f5b7d5efcc0abdc8df5f4e650": {
+      "liquidity": "172784975427908606",
+      "shortfall": "0"
+    },
+    "0xadd7f4850429cade47cfb041e702275a22c1fa46": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd3c4f1a1675d8a8709f5ff1f0dcee2579ac6658f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xcf2891f93df14c1d8e8d37b6988721eafe5fb55f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xffdaeb95ad9392eafda5381c6a5a771925b44cd1": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x340e9dedc21a5cc03d5a45fa36f805bf9a8e97a5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa68ca9a308c9fb7fc608ff5a34bfe3c0a2b93b56": {
+      "liquidity": "3204392",
+      "shortfall": "0"
+    },
+    "0x326ca8021876acb176503874348d1035a5173601": {
+      "liquidity": "22727440385545029",
+      "shortfall": "0"
+    },
+    "0x4e69a464eaebcc2d1adb872a4ec289ba6259d9a5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5909ae52711488ba5011f68472786788d10f53be": {
+      "liquidity": "6220648882561216",
+      "shortfall": "0"
+    },
+    "0x1ca7cb775085fcf34b7074b65348770b870ced60": {
+      "liquidity": "7079134307635253",
+      "shortfall": "0"
+    },
+    "0x6c448f774f74909443d5cea433f8c2b769b921a5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0bbaf4af7344754ca26b5def315756744f5d9e8b": {
+      "liquidity": "524557466209952",
+      "shortfall": "0"
+    },
+    "0x6d42977a60aef0de154dc255de03070a690cf041": {
+      "liquidity": "3537248117",
+      "shortfall": "0"
+    },
+    "0xcd79272e57a870c0b1f69a8c840244364c4a0260": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xcda12251cb32cf2671e0a33c0f1d327e1d856989": {
+      "liquidity": "13042646674434",
+      "shortfall": "0"
+    },
+    "0xf544dbde9768b152587285d8bfcd065f67112371": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x829ceb00fc74bd087b1e50d31ec628a90894cd52": {
+      "liquidity": "86466427297480",
+      "shortfall": "0"
+    },
+    "0xf7a819deba0d69c4f3567cb9fac04b05ec3a6516": {
+      "liquidity": "1196660280825021",
+      "shortfall": "0"
+    },
+    "0xb9c5747e56277def127678def8cf2308badb948b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xdeb8c4424456af564720fb10c035d1832b699216": {
+      "liquidity": "90427789317",
+      "shortfall": "0"
+    },
+    "0x4f0c041455305a177c1699501e8c3c1eeec5aa7e": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xecc40bb63c6f7227071dfd5cb296eddf761f09eb": {
+      "liquidity": "5400490583961",
+      "shortfall": "0"
+    },
+    "0x4ae0569c52c76b2ed89db7ab8bc56784db01b6c4": {
+      "liquidity": "8349204723120414",
+      "shortfall": "0"
+    },
+    "0x9a8061e1bc16bd9c82fd99737f975bb74a572c1f": {
+      "liquidity": "101502403063801",
+      "shortfall": "0"
+    },
+    "0x2130fd01026867a6c8dde24ad5e64f2e2dfce196": {
+      "liquidity": "787075758607158",
+      "shortfall": "0"
+    },
+    "0xedad9aaff8932605729c0331eb3b84adcc9435b8": {
+      "liquidity": "53264269215784432288",
+      "shortfall": "0"
+    },
+    "0x795e916860996ee17cfc43ab516fa8402ea20fb5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x3aff5ae7a64450f96425c90c4ba928b9db8fbfc3": {
+      "liquidity": "45125850874537",
+      "shortfall": "0"
+    },
+    "0x4e4b74681b93fdd210c3ad3c73b85032ad786ed3": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf796d9658653b9e4ca1d888a7e806c7030f9d0e2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x87dfa4ab2333bc0e34cdc3d2420dc99195a1b9b1": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5bf8a45451b7c5190c0cd1fdef4c00a433d6e367": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2065e7aa17fba10b30357de8f8a11858b00fa863": {
+      "liquidity": "995774374542",
+      "shortfall": "0"
+    },
+    "0xb838096981bfcb62dc4b0f2025bf758937ac85cf": {
+      "liquidity": "0",
+      "shortfall": "26246292755043108895798"
+    },
+    "0x19af654f499376f4ab999ca773a9713373cdea23": {
+      "liquidity": "0",
+      "shortfall": "180996222358135522863"
+    },
+    "0x7da9949382c0f36700b563712ff0a6e38374aa92": {
+      "liquidity": "3708946152500074962",
+      "shortfall": "0"
+    },
+    "0x153248530a76eba146e0aa0b7bbf85bfeec3c028": {
+      "liquidity": "0",
+      "shortfall": "42865502057703105913408"
+    },
+    "0x146c680abdfd83e7ca040c877f137c43f8949e09": {
+      "liquidity": "0",
+      "shortfall": "96309618951745046229"
+    },
+    "0x5b1a102a8f82fd2c1231fca763a7170920f7a7e3": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9a904eff2c32a311db0b007e790391c077d59ef4": {
+      "liquidity": "0",
+      "shortfall": "15964534310409749944018"
+    },
+    "0x0da04a43a5d3e5dad435be6e2f4e23543e002cc1": {
+      "liquidity": "0",
+      "shortfall": "2700473639191284106"
+    },
+    "0x1235f041e1f073dc1a708558ab5e446643f2dab3": {
+      "liquidity": "0",
+      "shortfall": "2939422895262142720"
+    },
+    "0x23ee3444bee399b0c9473c4f9518c841f9c2c4e9": {
+      "liquidity": "38748718757740",
+      "shortfall": "0"
+    },
+    "0x1b1e883b787ee869412cf6cc9b53c0b3836182c2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x60f9c8582ba286eb076f700dbb1376371ef77599": {
+      "liquidity": "0",
+      "shortfall": "133653513321357074"
+    },
+    "0x5bc9f09d1b9f2e7095b7765785aab16e79fec4ee": {
+      "liquidity": "0",
+      "shortfall": "385024678540532387544"
+    },
+    "0x7cc19138308c6efdc407c186afe77fb5e811f435": {
+      "liquidity": "942519007257014",
+      "shortfall": "0"
+    },
+    "0xbc4c530117f7642d68997150da15317e1bd87e0b": {
+      "liquidity": "397691335563056990497",
+      "shortfall": "0"
+    },
+    "0x0bf4c0f7eac4cddad5a1197ff92d37de5ba90897": {
+      "liquidity": "0",
+      "shortfall": "308993408778431935775"
+    },
+    "0x5580ba66f8d6dc71adb0ca1d1c6b3d142ff7aaca": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x74a52825aa20355b70df4c597489c7ad9ebe1e72": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf2b96f9c0f597c5926ab87af9511aea8cd078c43": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0535bec48152c637d0577c5ae4fa72b516a242fe": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4c4c3ce83c0565007ca6e6e33c081f9bd0e6e9be": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x472a87d6ed5f8f339d1b3b2aa1a54701215f149f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x85b6ac2dd05dff3767e78900ab5db55c12da1b8b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xfed0c87cbd54dc0757ff619806072f4c0653caf9": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd751a243325cd9d3b50480e9da8ff6b8b8e5ded7": {
+      "liquidity": "2827440328702",
+      "shortfall": "0"
+    },
+    "0xcbe126a4e957ac7b7045c53819f45ba7fd3d031d": {
+      "liquidity": "0",
+      "shortfall": "43327881503804495226927"
+    },
+    "0xb86847647bea33a77b01d48df0193102809c598e": {
+      "liquidity": "1228304708125464989576",
+      "shortfall": "0"
+    },
+    "0xc96d9d13293740478fba70f5172138affa31c0a6": {
+      "liquidity": "0",
+      "shortfall": "108793009703764173981796"
+    },
+    "0x2c68248ca44db8c9fb97d288b91c425ddf90a678": {
+      "liquidity": "136792583112",
+      "shortfall": "0"
+    },
+    "0xb0a314bca93a8f6f8d28407a94b40807960f5cc8": {
+      "liquidity": "0",
+      "shortfall": "4137935019936449410441"
+    },
+    "0xc7748db7338cc106aeb041b59965d0101eda8636": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9e9324ecad520ae096097493cd237a3c1706941b": {
+      "liquidity": "126316031299471415",
+      "shortfall": "0"
+    },
+    "0x6f75ebbb2b737f16878261275a01fd5160939b8b": {
+      "liquidity": "0",
+      "shortfall": "13727674582945304216355"
+    },
+    "0xf9ab2ef128d856339ad2c258cdaa14a22c662a14": {
+      "liquidity": "1141216786738407",
+      "shortfall": "0"
+    },
+    "0x4632ba70a622366493ce1662b975ddb85321c3b7": {
+      "liquidity": "1267034246176",
+      "shortfall": "0"
+    },
+    "0xba3cf2012a1a54b69b40b60ba586efadf6efb04a": {
+      "liquidity": "0",
+      "shortfall": "3449023955520159929"
+    },
+    "0xe4ac36454e774f346c043661a274ce5a4b551c30": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4e2972c77869e4b3ac1a6876b961e50ae1d87ca5": {
+      "liquidity": "0",
+      "shortfall": "426217328433858529190"
+    },
+    "0x17ee630d8aa0e9f44fba41af50c6b2966349ff17": {
+      "liquidity": "69433499363214776648553",
+      "shortfall": "0"
+    },
+    "0x0baa50925007811955e2c0cae8d75dab0b16754d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x6f6d544de5550d44ea5b821abd022fedf5059c1c": {
+      "liquidity": "108089240848503",
+      "shortfall": "0"
+    },
+    "0xf7a82b8c0127e40a2b84e9e72de68d00fb6a89c7": {
+      "liquidity": "0",
+      "shortfall": "362286104771105653536415"
+    },
+    "0xac1ea4620de31eacf8f1249b7d543878185b4e93": {
+      "liquidity": "10668492336",
+      "shortfall": "0"
+    },
+    "0x53354abf0ca0490d376c3ef0f02dfbbdaff28674": {
+      "liquidity": "0",
+      "shortfall": "124286610977973937603825"
+    },
+    "0xdc1a6e4638b1b09840faa7ed0808aacaf7d9cecb": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd871aa49ed68e021219cba4eca065122fe8e307c": {
+      "liquidity": "22040768776084922",
+      "shortfall": "0"
+    },
+    "0x9a5eff74128de8ffca527b8147163eb8cb3947e6": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf26caebb5b5cd05b94777dd7ef4b5e54c9fcbad6": {
+      "liquidity": "0",
+      "shortfall": "402972349960204189496087"
+    },
+    "0x763e18ca7f1657ba7fd7c6274ce2a3341e63ec51": {
+      "liquidity": "0",
+      "shortfall": "211789783934019082181393"
+    },
+    "0x82dcff3c5f3cd89eee6887ca817a92289a73b7b8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5d1e0065a58c2ddf6e550c440805412bf4b79708": {
+      "liquidity": "0",
+      "shortfall": "236925642519089132125"
+    },
+    "0x472954f5c9e1ea75648d6de0611fe5c8d1ae3f1a": {
+      "liquidity": "20857400232551932",
+      "shortfall": "0"
+    },
+    "0x4a73c038c21180b66821735405119325ec203ba1": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x632a4f33465634692c8c7d65006949bf64d8d851": {
+      "liquidity": "3016581476366424",
+      "shortfall": "0"
+    },
+    "0xdcf5c7dc0eda558635b6b6009fefd520d6fd9664": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb6c7ed161a73c80c5a5598edb74cfbbeeab0b577": {
+      "liquidity": "31713495495419646455",
+      "shortfall": "0"
+    },
+    "0x4f9a1362de1e1e122c18c2b9f52f8b4e047a1d3f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x73c3b47e9cc1f34f342e2f8cc5066013b3c038ea": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x91e9a526369667a4ffbdef5ba4a5233d8a6ff751": {
+      "liquidity": "11422592815",
+      "shortfall": "0"
+    },
+    "0xa9fdc011de33566d756d2464d45d64d15a5a8adf": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4cfd914dc49077726dbac5885c845b0befd39f6f": {
+      "liquidity": "368370454050302329943",
+      "shortfall": "0"
+    },
+    "0xb27f0c5863f17c19469e052e2cd323862ee8cde6": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x3099e12ca83c51e9b82ea6c5a08723aed4912068": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd515c09264da090e3b2127ea12ae5e7d9ad1bb2e": {
+      "liquidity": "1156844552801630255",
+      "shortfall": "0"
+    },
+    "0xcd2411d84ead5c26291fe231db38b7d3f526a591": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x04a9a45b18d568c2ebdb78c92d16821f9ed97f8f": {
+      "liquidity": "0",
+      "shortfall": "254908462043790438426121"
+    },
+    "0x833bf8d3760b38e5fc26bfda6114957d0cdfc01a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf7e5a901db4fefc5f142f0fd4157d0cf802ed2a8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x1bdf47862b4854c51fffea55de5f081d3eeeb83a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x3d447b2376e35314d953653900a4b87b7ec6bade": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x63f5f87bdb842420d81c7e234beca69c8fd9bf4d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x8c4cc942ceaf7cbde75db7690df2f359425e0de4": {
+      "liquidity": "0",
+      "shortfall": "304423597567524265205951"
+    },
+    "0xc1cbc5eccb7c3b2af21421112dc28c083b228ee2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2a4e76d24e51f8d25f4de6313f767f2df8b24dfb": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb87702ba2854a5b1cb52d2e018aaccde2da872f9": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0e1e182c897d0fdcfe8bcf6f2e131f7f647f367d": {
+      "liquidity": "3289546195279353",
+      "shortfall": "0"
+    },
+    "0xf68e3906c506fd6e1951f807da5e989464ae1548": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x52a6f747949716ff60674a8a37daf20b77daef22": {
+      "liquidity": "150482035101556",
+      "shortfall": "0"
+    },
+    "0xcb48bc015cc13c913703ab252141e8f8fdba2f34": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb89aafc81182111c7dce35a4a677109230c0b8a8": {
+      "liquidity": "0",
+      "shortfall": "17025072801908941351"
+    },
+    "0xb8b5e1bc479269f64819343779756b89c18013c0": {
+      "liquidity": "3313873539664099650236",
+      "shortfall": "0"
+    },
+    "0x9ce7c6d8a50319a6ce62084dcf55f00044582c29": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb8d432b145a069f95173873be6ba3ed4b7ed9821": {
+      "liquidity": "221332774732473216",
+      "shortfall": "0"
+    },
+    "0x4b3f301699a0b12fd47306becb2db8f679be674c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x47bd5f93a032d479810e8a929667670b2a30cdd7": {
+      "liquidity": "0",
+      "shortfall": "360458478985850709084758"
+    },
+    "0x5878de32c6f47526f4e2b65bd4b6573939256b43": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x6c502e8194b79daa2d2988db10f5b74117d220f0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4213ea26a95b0ce84a1d46e1f3f75d82cbd14597": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5b0b9e8401345ee7af2c5403ddd0467626d90bb4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xed3105a0ec578908ff55073a22dda66943605e3f": {
+      "liquidity": "154815096412033050784",
+      "shortfall": "0"
+    },
+    "0xa3f61be2d755c710f9202dff1e778df098881bab": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x49163d086e91f7d327852bad9bc6436c2a8b6da8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0263ccc29a96a9a2b9ea57f0d696c2797ff0bd9a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x371fa0543cd5e59c76373b7ed9c0f818a02746b2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x47f7dcbd00806539fecd9289bbe7d45cccc764e3": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x7a3149a53558859af392049f8d9f444ff80a7277": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xad29c18c711bc22b0337ecba4684d55c5de9aa68": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa740b5ac48dff97576050e5e4c3b581f23c0abe5": {
+      "liquidity": "684218686339849110135",
+      "shortfall": "0"
+    },
+    "0x828b3996dec4b46dbf4465477942918fbf6bac9b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xcbadbaa3a0d8af8ed645f5ac0ee4922e6e283390": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0d383204cf0848dfe86574c7d3e21e9b269b5dfd": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb2ce2b65f1af37bf4da4b688c92436d429b08da9": {
+      "liquidity": "162145397029916358770",
+      "shortfall": "0"
+    },
+    "0xd06cccbd08b1508174d391db59dffbe3515a0f34": {
+      "liquidity": "40639317127269631431",
+      "shortfall": "0"
+    },
+    "0xb21e5c380d8ab70551b8428143512556ed592b3f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xed56bc4d7dfc7e0cc3f5f3314141a054cb457192": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x62afbc3365fe343b66a4fd439152b4a1dd6b6ce9": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe302b0fd3c0da272dfa99abd91b69566c63252c4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xcacf64bbef0ca832993b843458ba53660ae19f2e": {
+      "liquidity": "0",
+      "shortfall": "2194173233207537070104364"
+    },
+    "0x9636cc389804d6afcc1c1f349571319728399886": {
+      "liquidity": "464901673085431",
+      "shortfall": "0"
+    },
+    "0xff4a629f14999ee80347a956c04e09193a9e67d1": {
+      "liquidity": "27607686285561",
+      "shortfall": "0"
+    },
+    "0x0eec5fb25160819bc9fbc8025cbc87097c6aba47": {
+      "liquidity": "152494816244356",
+      "shortfall": "0"
+    },
+    "0x95c1e4f5ad2460245bd9b478b3fe534bf8f352c6": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x422938990fed07aeb904260b1094943afc2e366d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x255bfed9f89714cb2fbb9c6905c8ab7e1e806d6e": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x82da1287b3388cc1fa377ae55717e8a3573599f2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x704111edbee29d79a92c4f21e70a5396aedcc44a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x287578c2832b10b628d0da4ced302ca0d3b75f1a": {
+      "liquidity": "99677229229933744",
+      "shortfall": "0"
+    },
+    "0x48293c4402a1ee6f78bdcb95a49d08b1fac42038": {
+      "liquidity": "8085236604409877",
+      "shortfall": "0"
+    },
+    "0x4308910c6b091632733883cf51e3216d28c16b21": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2d9954d78ad92e95d738369ff9394cf1687c5796": {
+      "liquidity": "0",
+      "shortfall": "5384656282274111018725"
+    },
+    "0x52570284f4ac065d7786bdd21d1b650f0fe1a532": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9428b02560e91608bd9780a916d5eb89eb9a4b6d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x00000087c4cebffb95746d1935de7fbcab092f40": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf4ad6ed5f256a681f486255c54252c1ea2b91744": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe92a405afa5f6a1b55f87f4bff1dd03bfcb144c3": {
+      "liquidity": "0",
+      "shortfall": "64929857922541817477"
+    },
+    "0x63b4b9081e9eff9498421998913702c350f0a09c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x588a07fdb3ddaff7e32b7fe20828afab7d3387e7": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf81ed26699f13cd2d93b9b79d2efcef6e5dbf745": {
+      "liquidity": "550087920147007384",
+      "shortfall": "0"
+    },
+    "0x085becd01d2b74a9a74c43b7844173eafe512cd3": {
+      "liquidity": "0",
+      "shortfall": "830857711388673474831727"
+    },
+    "0x1f3f0464d60df0715211f2ad4f28b8ec684bf5fd": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x6cf51fdef74d02296017a1129086ee9c3477dc01": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe7e4070eb09e691df4c48efe5d484086e7a2bcd5": {
+      "liquidity": "0",
+      "shortfall": "834766940423396504748379"
+    },
+    "0x5da62850cf67a537c63f764603f746a8e7053741": {
+      "liquidity": "0",
+      "shortfall": "16990393136709539660"
+    },
+    "0xacf06964108bd04e79e0b2ce39139e3e76c3a217": {
+      "liquidity": "810435391128862327",
+      "shortfall": "0"
+    },
+    "0x3c06601a9605d41a81df6e3f65208d82fcc411d8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x90123fac1af70ac09bf90a26635369eda7abdb48": {
+      "liquidity": "43411304158515433590234",
+      "shortfall": "0"
+    },
+    "0x55a8309865361d060cd4b2b3316955ce10d90bc8": {
+      "liquidity": "0",
+      "shortfall": "34934786792160653054253"
+    },
+    "0x1d1418e86a99b668739a8b2194fda0ed6204165a": {
+      "liquidity": "40584145676128081686",
+      "shortfall": "0"
+    },
+    "0x73f85a0b5608fb777baf932d3ec833e5302d785b": {
+      "liquidity": "14733291470204147292",
+      "shortfall": "0"
+    },
+    "0xf940ce19b9cd0b9efd586381b488cefb75eb413f": {
+      "liquidity": "9465170907727888781710",
+      "shortfall": "0"
+    },
+    "0xf2aa73346195f652b29b9d181becd5919b78950b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x6c86e4c15fc3be650ced795f4885840eb5acb2e9": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x03cb6608da06674db79475990411670476e9c04f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x63bf557f2abefb418ca6bbebaddf16837c616f7a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xeecc1ee8e978ad35148824c3fdb5c3f80ab5f9f5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xeea30dfeab54a05434967f4540cddcd61dca2d21": {
+      "liquidity": "109264053934969",
+      "shortfall": "0"
+    },
+    "0xf18c4f55e586b1c2c6391edbe7314b6f00bd5652": {
+      "liquidity": "25572899535181",
+      "shortfall": "0"
+    },
+    "0x9492c313f500319e87937f1da86b7938757627ad": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4178824eac1d03445477772e71f4a53a5ee53184": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xab89f5c312e95c1ccb444b90caef044a1d675231": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd152f549545093347a162dce210e7293f1452150": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x1ad8c2f46512ebbd518424a1c68ea29ef258fa59": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa2301baa90bea0405d69912adc32aa4828e2f14b": {
+      "liquidity": "17405906806257074986",
+      "shortfall": "0"
+    },
+    "0x4401b6950bd9ff9109ef8e7c6d2b7d83d65bbd51": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb5b4a1378e98f73683884e240734bee3cf195ffd": {
+      "liquidity": "161736011923008602836",
+      "shortfall": "0"
+    },
+    "0xa432af5f934a6b5d7aeaa4dbcc74c1ce32ad8667": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x3986e0a53525a347c22c694a793e3b7b7d081b66": {
+      "liquidity": "1040347228089839757",
+      "shortfall": "0"
+    },
+    "0x1a12459b5d9d8f37038205079787f05495254545": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x893c78d3450deca3327c7d828f051eddb09264e0": {
+      "liquidity": "0",
+      "shortfall": "263861991129880322755370"
+    },
+    "0x9b3274d6809e1edeb53b9810ec6f33f28a505fc5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xeacbfed2dea70f94918b21407e1e81b08acc53a5": {
+      "liquidity": "0",
+      "shortfall": "1276915754211994442316974"
+    },
+    "0x0e54edd4cf6568de41fc67eaa71aeb52885999c7": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x8eb354f1cbb0ab7ef0d038883b4c1065e008453f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x1993d3900ffdba309cec72a5188c7f165ec263e8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe480d4e05c8c32dc3c00a20add4560e482fc33b1": {
+      "liquidity": "1044729658340042224",
+      "shortfall": "0"
+    },
+    "0xe9479b2b6bbb083df406410f544b90e9ea20f7d7": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe222e60a18fd718a33734c18f692df7364af4e0d": {
+      "liquidity": "568651344653650230222",
+      "shortfall": "0"
+    },
+    "0x723be2d5a2808415e8e9d51b532190390663e94c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0a5f450e7f75495f73fdb520242aa317c7fda01f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xaed0577301dfb0df8dad5ebb65c3895d59708c3f": {
+      "liquidity": "79182483516485",
+      "shortfall": "0"
+    },
+    "0x9890a25966edf68f116cddae9a021d043950c03d": {
+      "liquidity": "13293539305133",
+      "shortfall": "0"
+    },
+    "0xa1eb64b1ae53f838f283736f92bb87ad29beea76": {
+      "liquidity": "154566800431",
+      "shortfall": "0"
+    },
+    "0xc9a6155c6d2e215012fcc8d91953ee5e6c4dc30b": {
+      "liquidity": "283574936185341109740",
+      "shortfall": "0"
+    },
+    "0x7d551b4aa5938d18be5c5e9fde7fece9566611ba": {
+      "liquidity": "154566800431",
+      "shortfall": "0"
+    },
+    "0x231431d35bd4dd4d2f1355f04ee55cf9c585e057": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa0a11ed72171d95e4e45c30e3bc97b8594e744c3": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x55cd191839d371afd632fef549c09d47e36e6065": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4cdd1f5ccb31f5f2b416da405ed36b7d8cbc3143": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x303070594d5b6efe4c2821b457b9416787c7931a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x6c642d918407e7d89795e648fbf42e7826c1df3b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd2753ec81dbfb6d52868a4c06b37ebb57433c84c": {
+      "liquidity": "0",
+      "shortfall": "134219539991529983342"
+    },
+    "0x0233760ac2ae6fa40dc3864ea95f7721cae8ed2d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x8676f92151771425c5a506a60105ee1a8e877456": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd3372247cd0897f9cbc543e35db4561cbfedb0b3": {
+      "liquidity": "0",
+      "shortfall": "1878019101545200476367744"
+    },
+    "0x4505efa75675d69fd5201e42759af23974f14129": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf2dd5d30e8c3908e163deeb9019b0aabea7b44a3": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc22f4e906f56cbb998edfa89a4310f99156e037a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb9d5ba34089f35c5e66f480e042b840151a5f10f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xdccdf21ee6a0a42dc99901ce2aafac266c2dc22c": {
+      "liquidity": "159136888287618803",
+      "shortfall": "0"
+    },
+    "0xe82aded6889b7b610a8a415d83c36c3d4b9a6b29": {
+      "liquidity": "0",
+      "shortfall": "4077255173176442432983"
+    },
+    "0xef3f063136fe5002065bf7c4a2d85ff34cfb0ac0": {
+      "liquidity": "1327493333425",
+      "shortfall": "0"
+    },
+    "0x6b30e020e9517c519c408f51c2593e12d55b55fa": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0d1876f223a02257f02efddfbfc350022b33220f": {
+      "liquidity": "372792014523415",
+      "shortfall": "0"
+    },
+    "0x8e9a57bbcbf2df7d58130a55a697c4385af1044a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe9ee43034a319412117b289c83f35be36e5bfd03": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x991e2e2e5fb87656aa4504e318a8723ff701118e": {
+      "liquidity": "0",
+      "shortfall": "191878644229921848087410"
+    },
+    "0x572612eb5aee423a3ae20760cfa43504dfd5c631": {
+      "liquidity": "0",
+      "shortfall": "109162879552539055"
+    },
+    "0xbbab2ca3df54726d3f484afff85708c0075a4400": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x52cdc472a31a462589cf8190087f54b5ab69d2b5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xfda24b2ff725634bdabb69f8259bcc669d97d0f0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf3c8d744a34b74feca1b740b025ae124b42d56ea": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xde829cfc702676e54baf5622a73f907b64e9e815": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x7a7ee025403889fdf0edbd31440b37eb3993998a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5aa14d9a8f7880b2d3db4482395fe0ed00998273": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4c28b7a52cf9b44b7f775a0660fb09c41694ee7b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xcc01839934df2a7187d17865ead83f4958c7b3d6": {
+      "liquidity": "0",
+      "shortfall": "156290993571302078562652"
+    },
+    "0xdb74d9e2dd9233a311a78eed64c7ee9a7e37f081": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xbebfa13d4b1dd3dd1676566bd65153c1521b0b8d": {
+      "liquidity": "0",
+      "shortfall": "20435848362838067073755"
+    },
+    "0xda386fc4a86965148d80e4afa1ebfd26e5c9e68b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb330a56c3602305dcfe8ba41352dc7a37658131d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x8c6b15b6ffd0a1f400ac34d8f0afae1c4843ad15": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd3534deb336072c91ec077cbc07c94af662c67d0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe500e73e53ff8b8d9228b3ce9fc7431f622a6849": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x03e527055944b50f0f48eafd2273414c0727c668": {
+      "liquidity": "50061163276",
+      "shortfall": "0"
+    },
+    "0x59459031841b38ce4e48830ca52be4addfbb1d90": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xbce054d82120cf261ea6c7f03c6fb04456f59a57": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf0437732118f11989b911caeb4581eb73bee726b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xdbf01a7705451170e1191d354ee9eb84245f4861": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x61250b2ac7a2ca6c1ff2d151a2cf8fd318298580": {
+      "liquidity": "0",
+      "shortfall": "20995638392814507905631"
+    },
+    "0xe214e08e62c4e405f39ba74f9cceae2f78f6673c": {
+      "liquidity": "120751529939467275",
+      "shortfall": "0"
+    },
+    "0xa24eeae9f1c57da937b070706ff0db2c70bb61b4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x786dd6987ea730118f32acd5b0db0ec5cff97359": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xcccd8e327bf88bc793337e0270d368d814c3c165": {
+      "liquidity": "7862512223",
+      "shortfall": "0"
+    },
+    "0x6f0ca88060f91b5ef839be5a7211293bfc27c06c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd7adb6402af22a17ddc03400c851d9f1ae1837e0": {
+      "liquidity": "103933960097974852",
+      "shortfall": "0"
+    },
+    "0x43d897835499a05f6175579a26eab4b711936396": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe957b0829c6ae6ac461d7365b7927e1ff604114b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9c97ae989ec58eae45643b82936dd89dda4effd8": {
+      "liquidity": "0",
+      "shortfall": "38213038853273603575142"
+    },
+    "0x4c61f3259d705323c7f27377da09a3e222ecde66": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb823a24767afd8f590d178b101d7190dc2343924": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x21e5a2f000f6b1680addb810193b7233740cf980": {
+      "liquidity": "23038754465593",
+      "shortfall": "0"
+    },
+    "0x0d7497b25172314a575a3f4d99a46df2f43ddaad": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x911a6d66a2a60ceafb894cedf60cd00042f6300d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x860ef75de5029145b0b64c7cc7c35e6df533a910": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x3aa7611c9e5fa6cefd4a84fe65e96eefe33cdc8f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2c96108ab531c96989110c2a7506a4b0b68ae2a4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xaa05e821e3165e0f357dd397db1331badbc13f45": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x02aee0ce756fa0157294ff3ff48c1dd02adccf04": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xdac5f39fbc52ccf3663ca70793bf8617be89335f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x99cf484640b87ac7ca5930ea35642654391c764c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x44154e2de24f43700f7b7ca91085af13c481e001": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa737bfdd789c3c099535dc76b9d7c6389138595d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xdb991c9a087f5b295bf0f29e5e409e3ed20f89b8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x77be26bfa2c4e1c052db0be89cbebbe0e97e6ab7": {
+      "liquidity": "160484307980277",
+      "shortfall": "0"
+    },
+    "0x5ae825e3d6582514d73aa9e768fa2f5d2f8cbfc2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x94b8e700babc28bc3d5314b53bb1809a7460f295": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x895cf574d5540fb28be05b79baa1a049e1e95ee0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe6d2032ac650850428e664e7680e9c8408971303": {
+      "liquidity": "10646015944042437",
+      "shortfall": "0"
+    },
+    "0xd0846d7d06f633b2be43766e434edf0ace9ba909": {
+      "liquidity": "10446167870882417",
+      "shortfall": "0"
+    },
+    "0x15e4d48d55410d6c4682aaa7a685fa0ab54a9f1a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc62368ef8e92359aaebe304a0b09b5815cc7b25b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x651c636fc2adbb79fb2c8fbb1cf3a6f76ff1fdd9": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xbca0ebe4e6aa67c9597ec56f5254e0a3016673a5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x21aa10ff06a366b642d034a6a0fcb1d88b9e804c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x00a67dc242df79dd7f6145ce38840581ae90c110": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa499df2bdae854093e5576c26c9e53e1b30d25e5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x48edcfc37ca2e53bf7c3fd8c4b368efbce3fe05e": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x28ac6da1f3c536610e085cbb3b91664173a93866": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4452ec0cfb01adedbc99fe78133499573a46d8ed": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x694208f12c6bff64c4aba19a16dd444c4e2b4ada": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x6c092e3012b8995bda35c8ce0e36dfda22ec159b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xfed3a074b6da0b753e5fc79f3e23297d97e73ce4": {
+      "liquidity": "41581666549226",
+      "shortfall": "0"
+    },
+    "0xae327ed5c469e7a4668f250f4d91423f1be05b41": {
+      "liquidity": "851718149391921011",
+      "shortfall": "0"
+    },
+    "0x41eaf203c93e375fd99d83e15cb1d4a91853c3cc": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x29ecaa773f052d14ec5258b352ee7304f57aabc3": {
+      "liquidity": "11434664315072124",
+      "shortfall": "0"
+    },
+    "0xe55aa300e1223931c046d0e2e1b5ed3e5bc026b6": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9b87e1fd164e70e6fa8c7fbee5943c2532f7834b": {
+      "liquidity": "10394922181312719",
+      "shortfall": "0"
+    },
+    "0x0cbed8abc576861460a77998a4e020946665f432": {
+      "liquidity": "26805760870376",
+      "shortfall": "0"
+    },
+    "0x047e3e2d99cd84b2d47a7c57cfe9c43c9ce1297b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x96bd1bdb23ca45d6855cae9fb17282892e2f8a86": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa33de6b856d798a9e4eda897905a3b7c23fce7af": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4caf4e32647ee0b34eca3c203a2203f606f0624e": {
+      "liquidity": "8946479786579483982",
+      "shortfall": "0"
+    },
+    "0x2234e29edbad60d0329ec8882c0202cb8d7f93cb": {
+      "liquidity": "11707783790",
+      "shortfall": "0"
+    },
+    "0x4513fba4f19b7d4d3508931f2fef853740957760": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb2812370f17465ae096ced55679428786734a678": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x923bbe01b2404986a16d95313aafa222ec539f4c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc63d7ac0ba77fd7ac917ac28ccef80951cb5eeda": {
+      "liquidity": "0",
+      "shortfall": "46732415600106886063611"
+    },
+    "0x2def61ac775df19ae12cf41909795aadb8a334c0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5a2cb90e5732f824dd3cc682837d015d3875a0d0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x48d971ece05e1454bcdbacc3dbd584b4520a7841": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9dabb3ce8ba81d0efe5ce899b42e61d0c92ca511": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x39f6befb0a0eda493507713061ee5983f55a49d6": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x333ee98d84b087208353038e10e1b4600a0a3967": {
+      "liquidity": "0",
+      "shortfall": "7667177772320111634"
+    },
+    "0xbef5a60f53b563dc12d32c5f081fd989fc8bffc8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x78bac8fd5495445c017e80c803572dd361d44c8f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xce4682ea2268e90da5ca1b8a97aaed88116c68ac": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb84f2f87545aaf03dca68c3de80b78ced17e694a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf0c59786aa943cde1087aeacd5b57a5fd51a3bc4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa5065a166350cd21989e9b00adb68e3d7641fbd5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x7019b00680f379db0db4027f266ee48806fd2a38": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x87bd5a12bab6e64154d7257719922eb1a1190930": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0e04cab2146752790f9d4a7d68806d0531f967ca": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb2b5898dbdf83f759313140e728e391c47acfa3e": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x3ff700a30a8eb58c625abd40153de6a5ced509aa": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd7937e1e1a46be3f63369148a9f254919e460247": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc4b84ee1cf1765bf907ab59859b6a7d7a879d08f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x8bcfc7a0990d3853daa69018a8e9471e0757385c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5b78ace197872a4c90bb137d0643aa3755dbc1a0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc3fc1f97f0fcf24bec7d5b6fb93e711c0d7646a0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x53ce58558d7c2f9591a23925d6416af57fee1844": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb217e9529bf2208e76d9016b7411f335e30f0ad5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa4050d47e3435dc298462d009426c040668f4297": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x6b3887fd0d2a82bb4282ce9ebb83d5c510da3397": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb37368e048e63b06dcb79ab00f1c316ea7e9ebc0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd257a990455f2751a8208a6d9ff66afd7c7180c7": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe9a96b6a35dd75f2660e1e27c976710b4781aa19": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x88293d4be3828e4cf431cdf1bec0cb9fa4a6f7eb": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x554899d70454b0d16475124faff2b1d4e049e8f5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2ca50d4fa4be631ebf96c4c9dc1f11812e6e4ef2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd46d872970b09e27a6d85d777278c355f06c8d98": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x90d773b9071b89cf8c18d000d39000b71d3e16dd": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x85d5e46f0d0bb102b8670b5204dd91a2fe2a30d6": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x27d7c24563ed53f37e0d47c042be3ac0e3bf86d6": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xbdf3a518341f8dc49f14c644665fa35034da41fa": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa46395b7ada89ab2b6ca42fe6397c3c184e877c1": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2068d26b9b9a5ea80e9dcb057cebe8612aeb2bbd": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x6008a6c65987ba4cda848a86762b2f00800249c0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x8f94dc2a09400c1fb0fa3cf7b36d6d2ca33e838d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xaa9a898d73795fdd935036544f86f92d5dc1a4e2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9cb8a093c6f706094658a3f038ba6723f6a5b625": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe5f7684834b50699cf93c78e00443c94c84a259d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x058b7ae6b79a769d365eb52883369b6fda899ec5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x496222654d12c7df88ef90fecdf8747d4636bef0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc982118a5a77f6f1bd76300b772a735c0dec004b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xaa9e20bab58d013220d632874e9fe44f8f971e4d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf5ed909ff51045a4c1a8fc194809108a6f33d656": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x76b20a25373250d1229070d8876c45a675e61d89": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa1ec6c9e93e9c4804446e926d9efc8d018d388de": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe03458675315b86189ac43451d924755ef0277c3": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc0400c54f86a16bb8b2ce82ae026bbe7e6a6258e": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x41546acde94953fade02cf27a25303a4159d5187": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x63b98e9a99226ddefa40b9172f6be7409fdfb15d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x587c632db714654ece0476d0c21957c724a2c233": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2b5dffd52bd3e2bf136f3bf3deef636f980e459d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4739add580fc54c5bf1c1c197e28793f05fb6e63": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd0d6ce474ca6510ff689b0819acd8bcda13ffe57": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x24436d4bb89b2fe254d85a1dcc01d8ce0c5f6cc4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb831e03cbe7299dd957d9d40ed6711fcab54cf12": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4d58e49536d2de14ffd7349fcdba51746fcb944c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x8cc0b7b1bf2a461dce9b3ca35ba8c46937dfd5a4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x86e3b29e5c2bfc1ecd8a875855a9eecb33731432": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x7c5dd454723874688de8b97073c9692bb16ec531": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa773f71d78db8edb69d3d7682c7c4b35860bfcc4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0f0e2d2459f3164b3443f4ba9f55a0242e2b5b9e": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc0df8f51cf96e4193e371882fc5f571161702c76": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa5bc70e3b84b76d59a47971c1996409aa51e33a5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x1a0f3b5e6a376877f63e830805e6ca7ee2af1ba4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x764d4b3eaa1f2c09a03576422c25c546ba4fc5e0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x7510c5b56cdaaddb7c9f76a547b3f2549bfca9b6": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x7e787d9b9b0fbcfa2ae6a3e4dbacc3c81ac317cd": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2a46ebc0d3cd522de2561ae1f903e228b92b64e8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf7c0308f65c030de5d936fe18f906d8f3657c623": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x00329e92ed6fd0a0ef76da9c476d51faeb6b26a0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5c716dcb6ac3fff6c73782e3834ac268c5f49393": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x40ef58512b617712c420892b80ec02f4d03f1b0d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x68b531349eb44496943be5ff15a5f510849d561f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x704ee860a1276262abb0f32ae5818a8bd84ab31c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x1d300c51290fc86804da69e59a8f4689e9ddc81a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x856b63349fb6c818ea7cd7305483ae0ef6956f6c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xca43a33cbc17f48268ca262ba9a2d97a2cbed2dd": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x624e284f2038ee110674f65d6b631beffe0c2e71": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x86fa219c7c70dd8fe88561cba2ec04521211799f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4abe280a64d211bc3d569268159ac92d6d0c65d0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xfc0b58ab1af097c7c6ca45abb24a08108c438550": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb1f56a37738c16d150c9aaa5441f056e65f4fbd6": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2222222229b89c7844f19ef503c4dc503be47f84": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xfd6d3dac0e787a8ab01f5ab5f4a1c877790f27af": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0f5c8334ad94cfe0fdc3851529b09a23f596ead3": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5ef3d4f41791f0b9f1cee6d739d77748f81fca3a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x089fd8cc1e9be2ed16cadd02edfa4b848ef4fac7": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x83e84cc194e595b43dcedfbffc3e0358366307f1": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc8e93eaedbdca697de84249632261c8ae4a187be": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x47cf1810f1cf545e5483a98faa4ebfffd78e7d7b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe7f705ecba95fc0e2fe4f078cc10abdcc37421dc": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0ca6cadb6a8ca4199788b9a060c3285fe7b897fd": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0056d1fd2ca3c0f3a7b6ed6cdd1f1f104b4bf9a9": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb407169cc45d4049189fa420a194e8552d42fc10": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xfc8c26908ce950a74017339971e20b687fc8b408": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xedae60f1d7837b13eda3d3ba9f4da6b8463c07c8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x26097f8c89aa9313a96ad8a851eb8e1c062a12d3": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x651a0b4a8904575e4ec56a7b53c89ea6226dfa99": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x478683278e0f1093baf890f9a53d9cc5b5a55369": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x8c367a826a2b237c1d246d90697d727e00bb6ffd": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd4fffd3814d09c583d79ee501d17f6f146aefac2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xba79b053281a1f48d7479c9516fc8d6e919426b2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4483ce9481df038279dee73a05e4f0db07e01a4f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd139f164d07456e867f835a9cfddffccb196cdba": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x93006f9dc69be8b9f1feaab318f3b4bb3d32f2e8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x01977c44632eefb5b2868e18c902584ccad574d7": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc338b340a58a92d0cbf59a2a429af4488cdf01a9": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb29a63e9de0a060bb30ce96cf1b2c9273c2af070": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x50b9e80632380a20d1e7612b218c987039c29601": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf6045c8f74064f6d488e284f8be018e41cf909d5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x82d09d4032e0c71379f314b49ecaf68cf4facf36": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xab6e3311a016e98b745d4758c590c26f8d85aedd": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x51547fe6c4209cf60441321072a48ffa53adfa79": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xac0a771f289abdb6e7c39949aae49b2270b36bc2": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2c538d3c1b7a2ef785e915cca844bba22d7de19d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa51c70646742f889ec013ab7f14e7cb89eb9012a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xbb31d2b0c7a5fa0bfb086ca9d0c08e6382a659e9": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x60aa44d215b1f7fa7b5e2eccedc12cf90165cfb1": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x757878973defba01e62c68f6c0f3e831adb957af": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x87d5cc4de69fc7fec053d1ce0cdcc43df23e1dd4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x586898a6f226b42ac0b7d6c9dd234813bb75b646": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xfd8a63085804dcb95417fe33f9e49253522c68dd": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xfba7cebb6842ce23d7b28ac6337ac1e4fc3ebfa0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe97dbb57994dd8c18fbbfb804f5486b2bb5d3f4d": {
+      "liquidity": "39143328463",
+      "shortfall": "0"
+    },
+    "0xf18d3386444dfffcad972b22b16e6688510b5522": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xffddae3307a2cbae8d4a511256acab990bf47a60": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2abbec21f0dbd04fd92a4fc8a9ffa3394c16ac7e": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa72f42c37e371de1385ce8e32de8d986c7073b41": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x7d56ca1611cb09a653e6046cec71971d59d1de68": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9ed7bfe9e3cc4d9296bba6330aaccaa12586fe4c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x61c5c7eb9b9599d949ece0dba05aeb01e86c4161": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc480fa7faf9e22b4756287770e9af51716b0d335": {
+      "liquidity": "279904380737547",
+      "shortfall": "0"
+    },
+    "0xaf535f8a3ee6c85622ab86f72697fad26fa15f2d": {
+      "liquidity": "62306647164932188926",
+      "shortfall": "0"
+    },
+    "0x74e5177e02aca912e29362462989c56a3b38b33a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xec8b3a6ce035616090d20224c44030f6480d7da9": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xef36bce4d66927eb3009a8afd9b3027f1f3d8065": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x9a8bdbe5bb0b63312e5af863aa66dcbc9d7ec4fd": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xcf1e4c0455e69c3a82c2344648be76c72dbcda06": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf3798349360719105480c730204fe5adbb626637": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x964520a9973697d354b0d4dd9e1063b5e8efff47": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x58cab9d282a8a1aa4486852758669bada12bcec1": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd7de0087591e58d7c3abd0f19be621f7aebe62c8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe99f5dc7c87f01018ec0e73ab505c2a57342ed45": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xfa78432efa8a3932dec4625be8f678702e1fd1f5": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x468b1bf3ace0b8a8af750e9989ef35ca3230953d": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xf093e5af98cc7c02832bc2b2e51f39eae2dfeaa6": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xada38ac2aa27d468b3594287aac71b0d2ae75be1": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc5fcc32614269f457cb40fdd0f58c43534aafa92": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x1ddb898d9f6b7713d4308df17ccfd26a27fcab02": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4d1d4710bc2babe1f6f32c78fbfa49a1b2fdbc1f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x1f575737c42022cf1fea04df5a16503b2524be2e": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2dc2295dce903a1b4b38394547139820f20cb066": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xfda34ae048ba9b131a37fb35757bc1206a5bf46a": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xb1cadad8cdbe6374225f01602dd03843d2554faa": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xceca1e5f73ad329587b440e0495553c460dde11f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x05682a10a7ff570e61ffc585042f3730f726c456": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x7d38b3b62282384f2d0142b6e2ccffbda0794583": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xaa5750a29a1c8e4deede2c3b1f9eec60c18fea3f": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xff7af909a9e3a9ff827defcb5dc8ff0d2689cfc8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x095fee0941b050120909d386750625451b1d82d9": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0bf26b69d41309b12e2e3ccd06042dff4712b3b7": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0bf341c86a180ae8d12f0e7102dac253cc656810": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x7c5b7bf87feab9a3f4972323bddda04c79d61315": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x4742b30f35035c666c5cba2e8670052b179e0404": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x67205db7f1a9c511175b31c1283e62339f4c5c27": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd5583f528d9856f6709a8e6c69015aeebf1761c4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x52f67902e201e8d64a7431cd86710ba9cc7dcea3": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xe1e5c2521bcb5e61016a42f5bc01a4d3fc3ac443": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2a32d23467305a5db6a3c2bf71eb7f33a7f46911": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x5e0a6bfcd19cd783c49789c6a6323abcaae5467c": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x31ea2730a76c7d480bba0267eb91d02a3087ea88": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc1223d13470c73216eafb3202d2abbcffec9bd1b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x995409b64c3bf4c1e1b5ee33b14c83cf743129ec": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x0e530732a9ecc807cafc1665ada8c27c197a7cb1": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x528b88e9e0c228cdd5ca6a1891685e37f06240f4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xd6652333d42c185ca769ce0569dcc4c017ba0460": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xc99baafab8dbbe6f946f93313a149ca8f963535b": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xa628fef53b239a079f43c647cc115916a097fac4": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x76a742b82e7ffc2cdcbf556dbcc98fc7ca0ebaa1": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xfc7296c4bfb4793fd1bc948c15b4785e14c50dfb": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x44c90cc8748a4eb725b107d003ac2d2484ff0fc8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x2ac0c700f8b42820ce8c86d7af82d5de4fcbfaa3": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x785461ca3c57bf115304c349637b9a5634ac2da8": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x452dd2de01e75c6d8298a18f3a085b3109986eda": {
+      "liquidity": "0",
+      "shortfall": "0"
+    }
+  },
+  "liquidation_incentive": "1050000000000000000",
+  "close_factor": "550000000000000000",
+  "block_updated": 16849465
+}

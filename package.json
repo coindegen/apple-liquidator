@@ -1,0 +1,45 @@
+{
+  "name": "nextjs-blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 5001",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typechain": "npx typechain --show-stack-traces  --target=web3-v1 './lib/abis/**/*.json'"
+  },
+  "dependencies": {
+    "@ethereumjs/common": "latest",
+    "@ethereumjs/tx": "^3.2.1",
+    "@headlessui/react": "^1.3.0",
+    "@heroicons/react": "^1.0.1",
+    "@metamask/detect-provider": "^1.2.0",
+    "@metamask/onboarding": "^1.0.1",
+    "@tailwindcss/forms": "^0.3.3",
+    "@tailwindcss/typography": "^0.4.1",
+    "@types/react-table": "^7.7.2",
+    "dotenv": "^10.0.0",
+    "formik": "^2.2.9",
+    "human-standard-token-abi": "^2.0.0",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-table": "^7.7.0",
+    "web3": "^1.4.0",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "@typechain/web3-v1": "^3.0.0",
+    "@types/react": "^17.0.11",
+    "@uniswap/v2-core": "^1.0.1",
+    "autoprefixer": "^10.2.6",
+    "eslint": "7.29.0",
+    "eslint-config-next": "11.0.1",
+    "hardhat": "^2.4.1",
+    "postcss": "^8.3.5",
+    "solidity-to-abi": "^1.0.4",
+    "tailwindcss": "^2.2.4",
+    "typechain": "^5.1.1"
+  }
+}
