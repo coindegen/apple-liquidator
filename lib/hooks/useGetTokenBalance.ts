@@ -1,4 +1,4 @@
-import { IToken } from "lib/types";
+// import { IToken } from "lib/types";
 import { useAccountContext } from "lib/useAccountContext";
 import { formatAmountFromWei } from "lib/utils";
 import { useEffect, useState } from "react";
@@ -22,7 +22,7 @@ export interface BalanceData {
 }
 
 export const useGetTokenBalance: (
-  token: IToken | null
+  token: any | null
 ) => BalanceData | undefined = (token) => {
   const [balance, setBalance] = useState<number>(0);
   const [status, setStatus] = useState<BalanceStatus>(BalanceStatusEnum.Idle);
@@ -57,7 +57,7 @@ export const useGetTokenBalance: (
 
         setStatus(BalanceStatusEnum.Complete);
         if (balanceAdjusted) {
-          setBalance(balanceAdjusted);
+          setBalance(+balanceAdjusted);
         }
       };
 
