@@ -1,6 +1,6 @@
 import { Navbar } from "components/Navbar";
 import { useAccountContext } from "lib/useAccountContext";
-import { formatAmountFromWei } from "lib/utils";
+import { formatAmountFromWei, formatNumber } from "lib/utils";
 import Head from "next/head";
 import { useRouter } from "next/router";
 import React, {
@@ -139,8 +139,23 @@ const getTokenBalanceByAccount: (
 
   const decimals = await tokenContract.methods.decimals().call();
 
-  const lendBalanceFormatted = formatAmountFromWei(lendBalance, decimals);
-  const borrowBalanceFormatted = formatAmountFromWei(borrowBalance, decimals);
+  const exchangeRateCurrent = await tokenContract.methods
+    .exchangeRateCurrent()
+    .call();
+
+  const exchangeRateStored = await tokenContract.methods
+    .exchangeRateStored()
+    .call();
+
+  console.log({ exchangeRateCurrent });
+  console.log({ exchangeRateStored });
+
+  const lendBalanceFormatted = formatNumber(
+    formatAmountFromWei(lendBalance, decimals)
+  );
+  const borrowBalanceFormatted = formatNumber(
+    +formatAmountFromWei(borrowBalance, decimals)
+  );
 
   const symbol = await tokenContract.methods.symbol().call();
 
@@ -272,7 +287,7 @@ const BalanceData: FC<{ walletInfo: IWalletInfo }> = ({ walletInfo }) => {
             {walletInfo.status.liquidity}
           </div>
           <div className="text-right font-mono">
-            {Web3.utils.fromWei(walletInfo.status.liquidity)}
+            {formatNumber(+Web3.utils.fromWei(walletInfo.status.liquidity))}
           </div>
         </Fragment>
         <Fragment>

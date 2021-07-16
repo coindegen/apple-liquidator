@@ -1,6 +1,5 @@
 import { Ethereumish } from "ethereum";
 import { POLYGON_CHAIN_ID } from "./constants/addresses";
-import { Pup } from "types/web3-v1-contracts/pup";
 import Web3 from "web3";
 
 export const getAccounts = async (ethereum: Ethereumish) => {
@@ -29,7 +28,7 @@ export const formatAmountToWei = (amount: string, decimal: string) => {
 };
 
 export const formatAmountFromWei = (amountRaw: string, decimal: string) => {
-  return (+amountRaw / Math.pow(10, +decimal)).toFixed(2);
+  return +amountRaw / Math.pow(10, +decimal);
 };
 
 export const isEmptyObject = (obj: any) => {
@@ -41,8 +40,8 @@ export const formatNumber = (num: number) => {
     return getSignificantDigits(num);
   }
 
-  if (num < 1000) {
-    return Number(num.toFixed(2)).toLocaleString();
+  if (num < 100000) {
+    return Number(num.toFixed(3)).toLocaleString();
   }
   return Math.round(Number(num)).toLocaleString();
 };
@@ -58,7 +57,7 @@ export const getSignificantDigits = (balance: number) => {
   };
 
   if (balance === 0) {
-    return balance;
+    return balance.toString();
   }
 
   return balance < 0.01 ? getDecPosition(balance) : balance.toFixed(4);
