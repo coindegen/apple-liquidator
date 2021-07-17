@@ -185,13 +185,13 @@ const getTokenBalanceByAccount: (
     +borrowValueUnderlyingDecimalAdjusted
   );
 
-  const lendValueUsd = await getUsdValue(
+  const lendValueUsd = await getValueUSD(
     token.underlying,
     lendValueUnderlyingRaw,
     lendValueUnderlying
   );
 
-  const borrowValueUsd = await getUsdValue(
+  const borrowValueUsd = await getValueUSD(
     token.underlying,
     borrowValueUnderlyingRaw,
     borrowValueUnderlying
@@ -221,12 +221,13 @@ const getTokenBalanceByAccount: (
 
 const usdcAddress = "0x2791bca1f2de4661ed88a30c99a7a9449aa84174";
 
-const getUsdValue: (
+const getValueUSD: (
   fromTokenAddress: string | null,
   amount: number,
   underlyingAmount: string
 ) => Promise<string> = async (fromTokenAddress, amount, underlyingAmount) => {
   // console.log({ underlyingAmount });
+  // console.log({ amount });
 
   if (amount === 0) {
     return "0";
@@ -240,11 +241,34 @@ const getUsdValue: (
     return underlyingAmount;
   }
 
-  console.log({ amount });
+  const convertScientificToString = (amount: number) => {
+    return amount.toLocaleString("fullwide", {
+      useGrouping: false,
+    });
+  };
 
-  const priceOracleEndpoint = `https://api.1inch.exchange/v3.0/137/quote?fromTokenAddress=${fromTokenAddress}&toTokenAddress=${usdcAddress}&amount=${Math.round(
-    amount
-  )}`;
+  const isScientific = (amount: number) => {
+    const stringArray = amount.toString().split("e");
+
+    if (stringArray[1]) {
+      return true;
+    }
+    return false;
+  };
+
+  const amountAsString = isScientific(amount)
+    ? convertScientificToString(amount)
+    : Math.round(amount).toString();
+  // console.log({
+  //   amountToString: ,
+  // });
+
+  const fromAddressCorrected =
+    fromTokenAddress === "0x0000000000000000000000000000000000001010"
+      ? "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+      : fromTokenAddress;
+
+  const priceOracleEndpoint = `https://api.1inch.exchange/v3.0/137/quote?fromTokenAddress=${fromAddressCorrected}&toTokenAddress=${usdcAddress}&amount=${amountAsString}`;
 
   const result = await fetch(priceOracleEndpoint);
 
@@ -252,7 +276,7 @@ const getUsdValue: (
 
   const resBody = await result.json();
 
-  console.log({ resBody });
+  // console.log({ resBody });
 
   if (resBody.error) {
     return "?";

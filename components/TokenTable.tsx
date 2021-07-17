@@ -96,11 +96,11 @@ export const TokenTable: FC<{
         accessor: "balance",
       },
       {
-        Header: "Value (underlying asset)",
+        Header: "Value (underlying)",
         accessor: "valueUnderlying",
       },
       {
-        Header: "Value (USD)",
+        Header: "Value (USDC)",
         accessor: "valueUSD",
       },
     ];
@@ -147,7 +147,7 @@ export const TokenTable: FC<{
                             scope="col"
                             className={`
                             
-                            px-6 py-3 text-xs font-medium text-gray-500 uppercase tracking-wider  `}
+                            px-6 py-3 text-xs font-medium text-gray-800 uppercase tracking-wider  `}
                             {...column.getHeaderProps(
                               getSortableProps(column.id)
                             )}
