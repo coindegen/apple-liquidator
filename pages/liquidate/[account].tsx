@@ -124,6 +124,8 @@ const getTokenBalanceByAccount: (
   const lendBalance = accountSnapshot[1];
   const borrowBalance = accountSnapshot[2];
 
+  // console.log({ borrowBalance, lendBalance });
+
   if (+lendBalance <= 0 && +borrowBalance <= 0) {
     return null;
   }
@@ -153,7 +155,7 @@ const getTokenBalanceByAccount: (
   );
 
   const borrowValueUnderlyingRaw = getValueUnderlyingRaw(
-    borrowBalance,
+    (+borrowBalance / Math.pow(10, +decimals)).toString(),
     exchangeRateCurrent
   );
 
@@ -200,9 +202,15 @@ const getTokenBalanceByAccount: (
   const lendBalanceFormatted = formatNumber(
     formatAmountFromWei(lendBalance, decimals)
   );
+
   const borrowBalanceFormatted = formatNumber(
     formatAmountFromWei(borrowBalance, decimals)
   );
+
+  // I think borrow data doesn't actually use 8 decimals
+  // const borrowBalanceFormatted = formatNumber(
+  //   formatAmountFromWei(borrowBalance, decimals)
+  // );
 
   return {
     asset,
@@ -238,7 +246,7 @@ const getValueUSD: (
   }
 
   if (fromTokenAddress.toLowerCase() === usdcAddress.toLowerCase()) {
-    return underlyingAmount;
+    return `$${underlyingAmount}`;
   }
 
   const convertScientificToString = (amount: number) => {
@@ -259,9 +267,12 @@ const getValueUSD: (
   const amountAsString = isScientific(amount)
     ? convertScientificToString(amount)
     : Math.round(amount).toString();
-  // console.log({
-  //   amountToString: ,
-  // });
+
+  // console.log(tokenDictionary[fromTokenAddress].symbol, amountAsString);
+
+  if (+amountAsString <= 0) {
+    return "0";
+  }
 
   const fromAddressCorrected =
     fromTokenAddress === "0x0000000000000000000000000000000000001010"
@@ -319,6 +330,8 @@ const AppUI: FC<{ account: string }> = ({ account = "" }) => {
       ) as any as ICompoundComptroller;
 
       const assets = await getAssetsByAccount(comptrollerContract, account);
+
+      // console.log({ assets });
 
       const liquidity = await getLiquidityByAccount(
         comptrollerContract,
