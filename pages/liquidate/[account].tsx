@@ -124,6 +124,8 @@ const getTokenBalanceByAccount: (
   const lendBalance = accountSnapshot[1];
   const borrowBalance = accountSnapshot[2];
 
+  // console.log({ borrowBalance, lendBalance });
+
   if (+lendBalance <= 0 && +borrowBalance <= 0) {
     return null;
   }
@@ -153,7 +155,7 @@ const getTokenBalanceByAccount: (
   );
 
   const borrowValueUnderlyingRaw = getValueUnderlyingRaw(
-    borrowBalance,
+    (+borrowBalance / Math.pow(10, +decimals)).toString(),
     exchangeRateCurrent
   );
 
@@ -200,9 +202,15 @@ const getTokenBalanceByAccount: (
   const lendBalanceFormatted = formatNumber(
     formatAmountFromWei(lendBalance, decimals)
   );
+
   const borrowBalanceFormatted = formatNumber(
     formatAmountFromWei(borrowBalance, decimals)
   );
+
+  // I think borrow data doesn't actually use 8 decimals
+  // const borrowBalanceFormatted = formatNumber(
+  //   formatAmountFromWei(borrowBalance, decimals)
+  // );
 
   return {
     asset,
@@ -238,7 +246,7 @@ const getValueUSD: (
   }
 
   if (fromTokenAddress.toLowerCase() === usdcAddress.toLowerCase()) {
-    return underlyingAmount;
+    return `$${underlyingAmount}`;
   }
 
   const convertScientificToString = (amount: number) => {
@@ -259,9 +267,12 @@ const getValueUSD: (
   const amountAsString = isScientific(amount)
     ? convertScientificToString(amount)
     : Math.round(amount).toString();
-  // console.log({
-  //   amountToString: ,
-  // });
+
+  // console.log(tokenDictionary[fromTokenAddress].symbol, amountAsString);
+
+  if (+amountAsString <= 0) {
+    return "0";
+  }
 
   const fromAddressCorrected =
     fromTokenAddress === "0x0000000000000000000000000000000000001010"
@@ -319,6 +330,8 @@ const AppUI: FC<{ account: string }> = ({ account = "" }) => {
       ) as any as ICompoundComptroller;
 
       const assets = await getAssetsByAccount(comptrollerContract, account);
+
+      // console.log({ assets });
 
       const liquidity = await getLiquidityByAccount(
         comptrollerContract,
@@ -391,29 +404,31 @@ const AppUI: FC<{ account: string }> = ({ account = "" }) => {
 
 const BalanceData: FC<{ walletInfo: IWalletInfo }> = ({ walletInfo }) => {
   return (
-    <div className="mt-8 lg:mt-20 px-5">
-      <div className="grid grid-cols-3 text-right mb-10 space-y-2">
+    <div className="mt-8 lg:mt-16 px-5 w-1/3">
+      <div className="grid grid-cols-2 text-right mb-10 space-y-2">
         <Fragment>
-          <div className="font-semibold text-left">Status</div>
-          <div className="font-semibold text-right">Amount (wei)</div>
-          <div className="font-semibold text-right">Amount</div>
+          <div className="font-semibold text-left"></div>
+          <div className="font-semibold text-right">Amount (USD)</div>
         </Fragment>
         <Fragment>
-          <div className="text-left">Liquidity</div>
+          <div className="text-left font-semibold">Liquidity</div>
           <div className="text-right font-mono">
-            {walletInfo.status.liquidity}
-          </div>
-          <div className="text-right font-mono">
-            {formatNumber(+Web3.utils.fromWei(walletInfo.status.liquidity))}
+            $
+            {Number(
+              Number(Web3.utils.fromWei(walletInfo.status.liquidity)).toFixed(2)
+            ).toLocaleString()}
           </div>
         </Fragment>
         <Fragment>
-          <div className="text-left">Shortfall</div>
-          <div className="text-right font-mono">
-            {walletInfo.status.shortfall}
-          </div>
-          <div className="text-right font-mono">
-            {Number(Web3.utils.fromWei(walletInfo.status.shortfall)).toFixed(2)}
+          <div className="text-left font-semibold">Shortfall</div>
+          <div
+            id={walletInfo.status.shortfall}
+            className="text-right font-mono"
+          >
+            $
+            {Number(
+              Number(Web3.utils.fromWei(walletInfo.status.shortfall)).toFixed(2)
+            ).toLocaleString()}
           </div>
         </Fragment>
       </div>

@@ -92,8 +92,12 @@ export const AccountsTable: FC = () => {
       Object.entries(accounts).map(([key, val]) => {
         return {
           col1: key,
-          col2: Number(Web3.utils.fromWei(val.liquidity)).toFixed(2),
-          col3: Number(Web3.utils.fromWei(val.shortfall)).toFixed(2),
+          col2: `${Number(
+            Number(Web3.utils.fromWei(val.liquidity)).toFixed(2)
+          )}`,
+          col3: `${Number(
+            Number(Web3.utils.fromWei(val.shortfall)).toFixed(2)
+          )}`,
         };
       }),
     [accounts]

@@ -21,11 +21,9 @@ export default function Home() {
               className="text-xl mt-36 mb-12"
               account={accounts[0]}
             />
-            {!accounts.length ? null : (
-              <div className="w-full bg-white border-2 border-amber-50 flex flex-col rounded-2xl overflow-auto px-0 lg:px-8 py-8">
-                <AccountsTable />
-              </div>
-            )}
+            <div className="w-full bg-white border-2 border-amber-50 flex flex-col rounded-2xl overflow-auto px-0 lg:px-8 py-8">
+              <AccountsTable />
+            </div>
           </div>
         </div>
       </main>
