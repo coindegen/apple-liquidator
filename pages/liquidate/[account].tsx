@@ -413,7 +413,10 @@ const BalanceData: FC<{ walletInfo: IWalletInfo }> = ({ walletInfo }) => {
         <Fragment>
           <div className="text-left font-semibold">Liquidity</div>
           <div className="text-right font-mono">
-            {formatNumber(+Web3.utils.fromWei(walletInfo.status.liquidity))}
+            $
+            {Number(
+              Number(Web3.utils.fromWei(walletInfo.status.liquidity)).toFixed(2)
+            ).toLocaleString()}
           </div>
         </Fragment>
         <Fragment>
