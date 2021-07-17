@@ -18,7 +18,9 @@ export const TokenTable: FC<{
   walletInfo: IWalletInfo;
   tableId: "lend" | "borrow";
 }> = ({ walletInfo, tableId }) => {
-  const balanceField =
+  const balanceField = tableId === "lend" ? "lendBalance" : "borrowBalance";
+
+  const balanceFieldFormatted =
     tableId === "lend" ? "lendBalanceFormatted" : "borrowBalanceFormatted";
   const underlyingValueField =
     tableId === "lend" ? "lendValueUnderlying" : "borrowValueUnderlying";
@@ -26,8 +28,6 @@ export const TokenTable: FC<{
 
   const data: Record<string, any>[] = useMemo(() => {
     const getRepayColumn = (tableId: string, tokenData: ITokenData) => {
-      console.log(+tokenData[balanceField]);
-
       return tableId === "borrow" && +tokenData[balanceField] > 0
         ? {
             repay: (
@@ -46,31 +46,40 @@ export const TokenTable: FC<{
         : {};
     };
 
-    return walletInfo.tokenBalances.map((tokenData) => {
-      return {
-        symbol: (
-          <a
-            href={`https://polygonscan.com/address/${tokenData.asset}`}
-            className="hover:text-amber-600 underline hover:no-underline"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            {tokenData.symbol}
-          </a>
-        ),
-        balance: `${tokenData[balanceField]} ${tokenData.symbol}`,
-        valueUnderlying: `${tokenData[underlyingValueField]} ${
-          tokenDictionary[
-            tokenDictionary[tokenData.asset.toLowerCase()].underlying
-          ].symbol
-        }`,
-        valueUSD: `${tokenData[valueUsdField]}`,
-        ...getRepayColumn(tableId, tokenData),
-      };
-    });
+    const removeZeroValues = (tableId: string) => (tokenData: ITokenData) => {
+      return tableId === "lend"
+        ? +tokenData.lendBalance > 0
+        : +tokenData.borrowBalance > 0;
+    };
+
+    return walletInfo.tokenBalances
+      .filter(removeZeroValues(tableId))
+      .map((tokenData) => {
+        return {
+          symbol: (
+            <a
+              href={`https://polygonscan.com/address/${tokenData.asset}`}
+              className="hover:text-amber-600 underline hover:no-underline"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {tokenData.symbol}
+            </a>
+          ),
+          balance: `${tokenData[balanceFieldFormatted]} ${tokenData.symbol}`,
+          valueUnderlying: `${tokenData[underlyingValueField]} ${
+            tokenDictionary[
+              tokenDictionary[tokenData.asset.toLowerCase()].underlying
+            ].symbol
+          }`,
+          valueUSD: `${tokenData[valueUsdField]}`,
+          ...getRepayColumn(tableId, tokenData),
+        };
+      });
   }, [
     walletInfo.tokenBalances,
     balanceField,
+    balanceFieldFormatted,
     underlyingValueField,
     valueUsdField,
     tableId,
@@ -111,7 +120,7 @@ export const TokenTable: FC<{
   const { getTableProps, getTableBodyProps, headerGroups, rows, prepareRow } =
     tableInstance;
 
-  const isSortable = ["valueUnderlying", "balance"];
+  const isSortable = ["valueUnderlying", "balance", "valueUSD"];
 
   return (
     <>
