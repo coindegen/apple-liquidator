@@ -1,4 +1,8 @@
+import { ExternalLinkIcon } from "@heroicons/react/outline";
+import { LoadingSpinner } from "components/icons/LoadingSpinner";
 import { Navbar } from "components/Navbar";
+import { TokenTable } from "components/TokenTable";
+import { ITokenData, IWalletInfo, TokenDictionary } from "lib/types";
 import { useAccountContext } from "lib/useAccountContext";
 import { formatAmountFromWei, formatNumber } from "lib/utils";
 import Head from "next/head";
@@ -14,8 +18,6 @@ import { IAToken } from "types/web3-v1-contracts/IAToken";
 import { ICompoundComptroller } from "types/web3-v1-contracts/ICompoundComptroller";
 import Web3 from "web3";
 import { AbiItem } from "web3-utils";
-import { ExternalLinkIcon } from "@heroicons/react/outline";
-import { LoadingSpinner } from "components/icons/LoadingSpinner";
 
 function LiquidateAccount() {
   const { accounts } = useAccountContext();
@@ -41,7 +43,7 @@ function LiquidateAccount() {
       <Navbar />
       <main className="">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
-          <div className="max-w-7xl mx-auto text-center pt-4">
+          <div className="text-center pt-4">
             <WelcomeMessage
               className="text-xl mt-36 mb-12"
               account={accounts[0]}
@@ -98,19 +100,13 @@ interface IGetBalances {
   assets: string[];
   web3: Web3;
 }
-interface ITokenData {
-  asset: string;
-  decimals: string;
-  symbol: string;
-  lendBalance: string;
-  lendBalanceFormatted: string;
-  borrowBalance: string;
-  borrowBalanceFormatted: string;
-}
+const tokenDictionary: TokenDictionary = require("lib/constants/tokenDictionary.json");
 
 const getTokenBalanceByAccount: (
   payload: IGetTokenBalance
 ) => Promise<ITokenData | null> = async ({ account, asset, web3 }) => {
+  // console.log({ asset });
+
   const tokenAbi: AbiItem[] = require("lib/abis/IAToken.json");
 
   const tokenContract = new web3.eth.Contract(
@@ -118,17 +114,12 @@ const getTokenBalanceByAccount: (
     asset
   ) as any as IAToken;
 
-  // const balance = await tokenContract.methods.balanceOf(account).call();
-
   //  * @return (possible error, token balance, borrow balance, exchange rate mantissa)
   const accountSnapshot = await tokenContract.methods
     .getAccountSnapshot(account)
     .call();
 
-  // console.log({
-  //   token: `${appleTokens[asset.toLowerCase()]}`,
-  //   accountSnapshot,
-  // });
+  // console.log({ accountSnapshot });
 
   const lendBalance = accountSnapshot[1];
   const borrowBalance = accountSnapshot[2];
@@ -137,27 +128,81 @@ const getTokenBalanceByAccount: (
     return null;
   }
 
-  const decimals = await tokenContract.methods.decimals().call();
-
   const exchangeRateCurrent = await tokenContract.methods
     .exchangeRateCurrent()
     .call();
 
-  const exchangeRateStored = await tokenContract.methods
-    .exchangeRateStored()
-    .call();
+  // console.log({ exchangeRateCurrent });
 
-  console.log({ exchangeRateCurrent });
-  console.log({ exchangeRateStored });
+  const token = tokenDictionary[asset.toLowerCase()];
+
+  const underlyingToken = tokenDictionary[token.underlying.toLowerCase() || ""];
+
+  // console.log(token);
+
+  const symbol = token.symbol;
+  const decimals = token.decimals;
+
+  const getValueUnderlyingRaw = (amount: string, exchangeRate: string) => {
+    return +amount * (+exchangeRate / Math.pow(10, 18));
+  };
+
+  const lendValueUnderlyingRaw = getValueUnderlyingRaw(
+    lendBalance,
+    exchangeRateCurrent
+  );
+
+  const borrowValueUnderlyingRaw = getValueUnderlyingRaw(
+    borrowBalance,
+    exchangeRateCurrent
+  );
+
+  const getValueUnderlyingDecimalAdjusted = (
+    amount: number,
+    decimals: string
+  ) => {
+    return (amount / Math.pow(10, +decimals)).toString();
+  };
+
+  const lendValueUnderlyingDecimalAdjusted = getValueUnderlyingDecimalAdjusted(
+    lendValueUnderlyingRaw,
+    underlyingToken.decimals
+  );
+
+  const borrowValueUnderlyingDecimalAdjusted =
+    getValueUnderlyingDecimalAdjusted(
+      borrowValueUnderlyingRaw,
+      underlyingToken.decimals
+    );
+
+  // console.log({ lendValueUnderlyingDecimalAdjusted });
+
+  const lendValueUnderlying = formatNumber(+lendValueUnderlyingDecimalAdjusted);
+
+  // console.log({ lendValueUnderlying });
+
+  const borrowValueUnderlying = formatNumber(
+    +borrowValueUnderlyingDecimalAdjusted
+  );
+
+  const lendValueUsd = await getUsdValue(
+    token.underlying,
+    lendValueUnderlyingRaw,
+    lendValueUnderlying
+  );
+
+  const borrowValueUsd = await getUsdValue(
+    token.underlying,
+    borrowValueUnderlyingRaw,
+    borrowValueUnderlying
+  );
 
   const lendBalanceFormatted = formatNumber(
     formatAmountFromWei(lendBalance, decimals)
   );
   const borrowBalanceFormatted = formatNumber(
-    +formatAmountFromWei(borrowBalance, decimals)
+    formatAmountFromWei(borrowBalance, decimals)
   );
-
-  const symbol = await tokenContract.methods.symbol().call();
 
   return {
     asset,
@@ -165,9 +210,57 @@ const getTokenBalanceByAccount: (
     decimals,
     lendBalance,
     lendBalanceFormatted,
+    lendValueUnderlying,
+    lendValueUsd,
     borrowBalance,
     borrowBalanceFormatted,
+    borrowValueUnderlying,
+    borrowValueUsd,
   };
+};
+
+const usdcAddress = "0x2791bca1f2de4661ed88a30c99a7a9449aa84174";
+
+const getUsdValue: (
+  fromTokenAddress: string | null,
+  amount: number,
+  underlyingAmount: string
+) => Promise<string> = async (fromTokenAddress, amount, underlyingAmount) => {
+  // console.log({ underlyingAmount });
+
+  if (amount === 0) {
+    return "0";
+  }
+
+  if (!fromTokenAddress) {
+    return underlyingAmount;
+  }
+
+  if (fromTokenAddress.toLowerCase() === usdcAddress.toLowerCase()) {
+    return underlyingAmount;
+  }
+
+  console.log({ amount });
+
+  const priceOracleEndpoint = `https://api.1inch.exchange/v3.0/137/quote?fromTokenAddress=${fromTokenAddress}&toTokenAddress=${usdcAddress}&amount=${Math.round(
+    amount
+  )}`;
+
+  const result = await fetch(priceOracleEndpoint);
+
+  // console.log({ result });
+
+  const resBody = await result.json();
+
+  console.log({ resBody });
+
+  if (resBody.error) {
+    return "?";
+  }
+
+  return `$${formatNumber(
+    resBody.toTokenAmount / Math.pow(10, +tokenDictionary[usdcAddress].decimals)
+  )}`;
 };
 
 const getAccountBalances = async ({ account, assets, web3 }: IGetBalances) => {
@@ -180,11 +273,6 @@ const getAccountBalances = async ({ account, assets, web3 }: IGetBalances) => {
   const filteredTokens = tokens.filter(Boolean) as ITokenData[];
   return filteredTokens;
 };
-
-interface IWalletInfo {
-  tokenBalances: ITokenData[];
-  status: { liquidity: string; shortfall: string };
-}
 
 const AppUI: FC<{ account: string }> = ({ account = "" }) => {
   const [walletInfo, setWalletInfo] = useState<IWalletInfo>({
@@ -236,8 +324,8 @@ const AppUI: FC<{ account: string }> = ({ account = "" }) => {
 
   return (
     <>
-      <div className="w-full bg-gray-50 border-2 border-amber-50 flex rounded-2xl overflow-auto p-6 lg:p-12 ">
-        <div className="">
+      <div className="bg-gray-50 border-2 border-amber-50 flex rounded-2xl overflow-auto p-6 lg:p-12 ">
+        <div className="w-full">
           <div className="text-left">
             <h4 className="uppercase tracking-widest">
               <div className="text-gray-500 text-xs">Wallet</div>
@@ -263,7 +351,12 @@ const AppUI: FC<{ account: string }> = ({ account = "" }) => {
                 <div>Loading Balances…</div>
               </div>
             ) : (
-              <BalanceData walletInfo={walletInfo} />
+              <>
+                <BalanceData walletInfo={walletInfo} />
+
+                <TokenTable tableId="lend" walletInfo={walletInfo} />
+                <TokenTable tableId="borrow" walletInfo={walletInfo} />
+              </>
             )}
           </div>
         </div>
@@ -274,8 +367,8 @@ const AppUI: FC<{ account: string }> = ({ account = "" }) => {
 
 const BalanceData: FC<{ walletInfo: IWalletInfo }> = ({ walletInfo }) => {
   return (
-    <div className="mt-8 lg:mt-20">
-      <div className="grid grid-cols-3 text-right mb-10 space-y-1">
+    <div className="mt-8 lg:mt-20 px-5">
+      <div className="grid grid-cols-3 text-right mb-10 space-y-2">
         <Fragment>
           <div className="font-semibold text-left">Status</div>
           <div className="font-semibold text-right">Amount (wei)</div>
@@ -299,69 +392,6 @@ const BalanceData: FC<{ walletInfo: IWalletInfo }> = ({ walletInfo }) => {
             {Number(Web3.utils.fromWei(walletInfo.status.shortfall)).toFixed(2)}
           </div>
         </Fragment>
-      </div>
-      <div className="grid grid-cols-3 text-right space-y-1">
-        <Fragment>
-          <div className="font-semibold text-left">Lent Tokens</div>
-          <div className="font-semibold text-right">Balance (wei)</div>
-          <div className="font-semibold text-right">Balance</div>
-        </Fragment>
-
-        {walletInfo.tokenBalances.map((tokenData) => {
-          return (
-            <Fragment key={tokenData.symbol}>
-              <div className="text-left">
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  title="View on block explorer"
-                  className="hover:text-amber-600 underline hover:no-underline"
-                  href={`https://polygonscan.com/address/${tokenData.asset}`}
-                >
-                  {tokenData.symbol}
-                </a>
-              </div>
-              <div className="text-right font-mono">
-                {tokenData.lendBalance}
-              </div>
-              <div className="text-right font-mono">
-                {tokenData.lendBalanceFormatted}
-              </div>
-            </Fragment>
-          );
-        })}
-      </div>
-
-      <div className="grid grid-cols-3 text-right mt-10 space-y-1">
-        <Fragment>
-          <div className="font-semibold text-left">Borrowed Tokens</div>
-          <div className="font-semibold text-right">Borrow Balance (wei)</div>
-          <div className="font-semibold text-right">Borrow Balance</div>
-        </Fragment>
-
-        {walletInfo.tokenBalances.map((tokenData) => {
-          return (
-            <Fragment key={tokenData.symbol}>
-              <div className="text-left">
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  title="View on block explorer"
-                  className="hover:text-amber-600 underline hover:no-underline"
-                  href={`https://polygonscan.com/address/${tokenData.asset}`}
-                >
-                  {tokenData.symbol}
-                </a>
-              </div>
-              <div className="text-right font-mono ">
-                {tokenData.borrowBalance}
-              </div>
-              <div className="text-right font-mono">
-                {tokenData.borrowBalanceFormatted}
-              </div>
-            </Fragment>
-          );
-        })}
       </div>
     </div>
   );

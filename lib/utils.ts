@@ -52,7 +52,7 @@ export const getSignificantDigits = (balance: number) => {
   const getDecPosition = (balance: number) => {
     const [_coeff, exponent] = balance.toExponential().split("e").map(Number);
 
-    const result = balance.toFixed(Math.abs(exponent) + 1);
+    const result = balance.toFixed(Math.abs(exponent) + 2);
     return result;
   };
 
@@ -70,3 +70,6 @@ export const makeObjectFromArray = (
   acc[k] = v;
   return acc;
 };
+
+export const getCheckSumAddress = (address: string) =>
+  Web3.utils.toChecksumAddress(address);

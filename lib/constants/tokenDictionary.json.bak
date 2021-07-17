@@ -1,0 +1,242 @@
+{
+  "0x44154e2de24f43700f7b7ca91085af13c481e001": {
+    "symbol": "aAPPLE",
+    "name": "Apple Wrapped APPLE",
+    "decimals": "8",
+    "underlying": "0xda8F20bf431d04a3661250F922D75e2bBE0B001C",
+    "exchangeRateStored": "103400641500358826504434038"
+  },
+  "0xda8F20bf431d04a3661250F922D75e2bBE0B001C": {
+    "symbol": "Apple",
+    "name": "Apple Finance",
+    "decimals": "18"
+  },
+  "0x0a5f450e7f75495f73fdb520242aa317c7fda01f": {
+    "symbol": "aETH",
+    "name": "Apple Wrapped ETH",
+    "decimals": "8",
+    "underlying": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+    "exchangeRateStored": "99809780752815666900824736"
+  },
+  "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619": {
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "decimals": "18"
+  },
+  "0x92af72ec27eb22a966c67a87be33c342acc0b77a": {
+    "symbol": "aUSDC",
+    "name": "Apple Wrapped USDC",
+    "decimals": "8",
+    "underlying": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "exchangeRateStored": "103192740193192"
+  },
+  "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174": {
+    "symbol": "USDC",
+    "name": "USD Coin (PoS)",
+    "decimals": "6"
+  },
+  "0xeEcc1EE8E978ad35148824C3FDb5C3f80ab5F9F5": {
+    "symbol": "aBTC",
+    "name": "Apple Wrapped BTC",
+    "decimals": "8",
+    "underlying": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+    "exchangeRateStored": "10211693214289123"
+  },
+  "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6": {
+    "symbol": "WBTC",
+    "name": "(PoS) Wrapped BTC",
+    "decimals": "8"
+  },
+  "0xe500e73e53ff8b8d9228b3ce9fc7431f622a6849": {
+    "symbol": "aQUICK",
+    "name": "Apple Wrapped QUICK",
+    "decimals": "8",
+    "underlying": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+    "exchangeRateStored": "101393882126117108590478390"
+  },
+  "0x831753DD7087CaC61aB5644b308642cc1c33Dc13": {
+    "symbol": "QUICK",
+    "name": "Quickswap",
+    "decimals": "18"
+  },
+  "0xb9d5ba34089f35c5e66f480e042b840151a5f10f": {
+    "symbol": "aDAI",
+    "name": "Apple Wrapped DAI",
+    "decimals": "8",
+    "underlying": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+    "exchangeRateStored": "102754208832970668622279695"
+  },
+  "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063": {
+    "symbol": "DAI",
+    "name": "(PoS) Dai Stablecoin",
+    "decimals": "18"
+  },
+  "0xbce054d82120cf261ea6c7f03c6fb04456f59a57": {
+    "symbol": "aAAVE",
+    "name": "Apple Wrapped AAVE",
+    "decimals": "8",
+    "underlying": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+    "exchangeRateStored": "103201812516672734910549361"
+  },
+  "0xD6DF932A45C0f255f85145f286eA0b292B21C90B": {
+    "symbol": "AAVE",
+    "name": "Aave (PoS)",
+    "decimals": "18"
+  },
+  "0x43d897835499a05f6175579a26eab4b711936396": {
+    "symbol": "aLINK",
+    "name": "Apple Wrapped LINK",
+    "decimals": "8",
+    "underlying": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+    "exchangeRateStored": "101948009049767011976307429"
+  },
+  "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39": {
+    "symbol": "LINK",
+    "name": "ChainLink Token",
+    "decimals": "18"
+  },
+  "0x860ef75de5029145b0b64c7cc7c35e6df533a910": {
+    "symbol": "aSUSHI",
+    "name": "Apple Wrapped SUSHI",
+    "decimals": "8",
+    "underlying": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+    "exchangeRateStored": "101410145938246464607421582"
+  },
+  "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a": {
+    "symbol": "SUSHI",
+    "name": "SushiToken (PoS)",
+    "decimals": "18"
+  },
+  "0xb823a24767afd8f590d178b101d7190dc2343924": {
+    "symbol": "aUNI",
+    "name": "Apple Wrapped UNI",
+    "decimals": "8",
+    "underlying": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+    "exchangeRateStored": "102348914316731341160839063"
+  },
+  "0xb33EaAd8d922B1083446DC23f610c2567fB5180f": {
+    "symbol": "UNI",
+    "name": "Uniswap (PoS)",
+    "decimals": "18"
+  },
+  "0x704ee860a1276262abb0f32ae5818a8bd84ab31c": {
+    "symbol": "aIRON",
+    "name": "Apple Wrapped IRON",
+    "decimals": "8",
+    "underlying": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
+    "exchangeRateStored": "102081021434560414815659326"
+  },
+  "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a": {
+    "symbol": "IRON",
+    "name": "IRON Stablecoin",
+    "decimals": "18"
+  },
+  "0x7019b00680f379db0db4027f266ee48806fd2a38": {
+    "symbol": "aTITAN",
+    "name": "Apple Wrapped TITAN",
+    "decimals": "8",
+    "underlying": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+    "exchangeRateStored": "103255976834660391347420329"
+  },
+  "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A": {
+    "symbol": "TITAN",
+    "name": "IRON Titanium Token",
+    "decimals": "18"
+  },
+  "0x4abe280a64d211bc3d569268159ac92d6d0c65d0": {
+    "symbol": "aQI",
+    "name": "Apple Wrapped QI",
+    "decimals": "8",
+    "underlying": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+    "exchangeRateStored": "102703637106229091265117688"
+  },
+  "0x580A84C73811E1839F75d86d75d88cCa0c241fF4": {
+    "symbol": "QI",
+    "name": "Qi Dao",
+    "decimals": "18"
+  },
+  "0x8c367a826a2b237c1d246d90697d727e00bb6ffd": {
+    "symbol": "amiMATIC",
+    "name": "Apple Wrapped miMATIC",
+    "decimals": "8",
+    "underlying": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+    "exchangeRateStored": "103245316579860489800647782"
+  },
+  "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1": {
+    "symbol": "miMATIC",
+    "name": "miMATIC",
+    "decimals": "18"
+  },
+  "0x50b9e80632380a20d1e7612b218c987039c29601": {
+    "symbol": "aFISH",
+    "name": "Apple Wrapped FISH",
+    "decimals": "8",
+    "underlying": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+    "exchangeRateStored": "103263040453763646823860991"
+  },
+  "0x3a3Df212b7AA91Aa0402B9035b098891d276572B": {
+    "symbol": "FISH",
+    "name": "Fish",
+    "decimals": "18"
+  },
+  "0x74e5177e02aca912e29362462989c56a3b38b33a": {
+    "symbol": "aDFYN",
+    "name": "Apple Wrapped DFYN",
+    "decimals": "8",
+    "underlying": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+    "exchangeRateStored": "101276754557131364590779341"
+  },
+  "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97": {
+    "symbol": "DFYN",
+    "name": "DFYN Token (PoS)",
+    "decimals": "18"
+  },
+  "0x58cab9d282a8a1aa4486852758669bada12bcec1": {
+    "symbol": "aWEXpoly",
+    "name": "Apple Wrapped WEXpoly",
+    "decimals": "8",
+    "underlying": "0x4c4BF319237D98a30A929A96112EfFa8DA3510EB",
+    "exchangeRateStored": "104625237497921562629090919"
+  },
+  "0x4c4BF319237D98a30A929A96112EfFa8DA3510EB": {
+    "symbol": "WEXpoly",
+    "name": "WaultSwap Polygon",
+    "decimals": "18"
+  },
+  "0xada38ac2aa27d468b3594287aac71b0d2ae75be1": {
+    "symbol": "aPolyDoge",
+    "name": "Apple Wrapped PolyDoge",
+    "decimals": "8",
+    "underlying": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+    "exchangeRateStored": "102681942853995838252578939"
+  },
+  "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472": {
+    "symbol": "PolyDoge",
+    "name": "PolyDoge",
+    "decimals": "18"
+  },
+  "0x0bf26b69d41309b12e2e3ccd06042dff4712b3b7": {
+    "symbol": "aCRV",
+    "name": "Apple Wrapped CRV",
+    "decimals": "8",
+    "underlying": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+    "exchangeRateStored": "102785484868063583054271985"
+  },
+  "0x172370d5Cd63279eFa6d502DAB29171933a610AF": {
+    "symbol": "CRV",
+    "name": "CRV (PoS)",
+    "decimals": "18"
+  },
+  "0x2840af6f287d329237c8addc5500c349e041c5bb": {
+    "name": "Apple Wrapped MATIC",
+    "symbol": "aMATIC",
+    "decimals": "8",
+    "exchangeRateStored": "103658341476812354358559705",
+    "underlying": "0x0000000000000000000000000000000000001010"
+  },
+  "0x0000000000000000000000000000000000001010": {
+    "name": "Matic Token",
+    "symbol": "MATIC",
+    "decimals": "18"
+  }
+}

@@ -3,29 +3,38 @@ const rpcAddress =
   "https://rpc-mainnet.maticvigil.com/v1/9239d280acc587a55ebd6286a30b05506620700b";
 
 const web3 = new Web3(new Web3.providers.HttpProvider(rpcAddress));
-const tokenABI = require("./lib/abis/IAToken.json");
+const tokenABI = require("../lib/abis/IAToken.json");
 
 // const aMatic = "0x2840AF6f287d329237c8addc5500C349E041C5BB"; // change aToken address if not matic
-const tokens = require("./lib/constants/tokens.json");
+const tokens = require("../lib/constants/tokens.json");
 
 const main = async () => {
   let appleTokensTable = {};
 
   const tokenContract = new web3.eth.Contract(
     tokenABI,
-    "0xaaf34d1abe39765356bd28cb348dfdfc612b83cf"
+    "0x5c2ed810328349100a66b82b78a1791b101c9d61"
   );
 
   const symbol = await tokenContract.methods.symbol().call();
   const decimals = await tokenContract.methods.decimals().call();
   const name = await tokenContract.methods.name().call();
-  const exchangeRateStored = await tokenContract.methods
-    .exchangeRateStored()
-    .call();
-  //   const underlying = await tokenContract.methods.underlying().call();
 
-  console.log({ name, symbol, decimals });
-  console.log({ exchangeRateStored, underlying });
+  // const exchangeRateStored = await tokenContract.methods
+  //   .exchangeRateStored()
+  //   .call();
+  // const underlying = await tokenContract.methods.underlying().call();
+
+  console.log({
+    "0x5c2ed810328349100a66b82b78a1791b101c9d61": {
+      name,
+      symbol,
+      decimals,
+      // exchangeRateStored,
+      // underlying,
+    },
+  });
+  // console.log({ exchangeRateStored, underlying });
 
   //   try {
   //     underlying = await tokenContract.methods.underlying().call();
