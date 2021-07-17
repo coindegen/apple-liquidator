@@ -1,7 +1,7 @@
 {
   "accounts": {
     "0xe1b0997c5729ca4a23d08f7304428b84db09cc82": {
-      "liquidity": "23665820588118633",
+      "liquidity": "23462132090102533",
       "shortfall": "0"
     },
     "0x2840af6f287d329237c8addc5500c349e041c5bb": {
@@ -9,7 +9,7 @@
       "shortfall": "0"
     },
     "0xa3143ee66a26fa769460d6f8ce04c138a09fbdf9": {
-      "liquidity": "3229330681324",
+      "liquidity": "3126633530548",
       "shortfall": "0"
     },
     "0x7c984c84801f039fb6b4d6304ce37a5ce87905a4": {
@@ -18,15 +18,15 @@
     },
     "0x5e959d62d6dbd5b3e7fe043a4af1f9f65f0097b9": {
       "liquidity": "0",
-      "shortfall": "7121299378252652565199"
+      "shortfall": "7428480636817380671458"
     },
     "0xaa3c5b51eaff1c73107d0427852f4e7ee8a4af12": {
-      "liquidity": "17470877168934080",
+      "liquidity": "17320479820492180",
       "shortfall": "0"
     },
     "0x25450668802e6174dda972f56f103cdb228e1343": {
       "liquidity": "0",
-      "shortfall": "18151895832451330344188"
+      "shortfall": "18089995068968978403790"
     },
     "0xbf970127652bc887baa8837f84f0d1ca50a706da": {
       "liquidity": "0",
@@ -37,12 +37,12 @@
       "shortfall": "0"
     },
     "0xe729986a4b0aec7f13321c9376f1b6c7ac4f8585": {
-      "liquidity": "16235588588538230",
+      "liquidity": "16095748415231715",
       "shortfall": "0"
     },
     "0xcd63481ff38c1d88aa92ce189d8d9b56945c03d1": {
       "liquidity": "0",
-      "shortfall": "37147621002867"
+      "shortfall": "38256844253101"
     },
     "0x455d7eb74860d0937423b9184f9e8461aa354ebb": {
       "liquidity": "0",
@@ -61,7 +61,7 @@
       "shortfall": "0"
     },
     "0xbdfa4f4492dd7b7cf211209c4791af8d52bf5c50": {
-      "liquidity": "6300268495877",
+      "liquidity": "6317775795396",
       "shortfall": "0"
     },
     "0x1d0adcc97f7bb8af13e2c9cfa9d6595d44832a11": {
@@ -69,11 +69,11 @@
       "shortfall": "0"
     },
     "0x47e33894ed60a691a5c795325dae461363863c8c": {
-      "liquidity": "16647230585750",
+      "liquidity": "14797880226515",
       "shortfall": "0"
     },
     "0xb25f4d199e510b6da75fc8acf44efc8f793baa8f": {
-      "liquidity": "47076518830747921",
+      "liquidity": "47095425286862872",
       "shortfall": "0"
     },
     "0xbd06a7182c2a6c510c34242a5aaa9717f2aa80f2": {
@@ -85,7 +85,7 @@
       "shortfall": "0"
     },
     "0x12a0dd19d3f878697c7a1f804aaa1da84229566c": {
-      "liquidity": "908922407079930285331",
+      "liquidity": "905958690589184407334",
       "shortfall": "0"
     },
     "0x655b2524e9bcab88ab7555b1660238af6a46744e": {
@@ -109,7 +109,7 @@
       "shortfall": "0"
     },
     "0xa5bd95f3fd95c536c1e50edf5e115018e3db8e96": {
-      "liquidity": "3052531075211817",
+      "liquidity": "3062785256799952",
       "shortfall": "0"
     },
     "0xc4ed4b165463a4bf484f938656e9a9843fa299c8": {
@@ -117,7 +117,7 @@
       "shortfall": "0"
     },
     "0xa87c96a63f91e48933adb2343f0daf89592bf55c": {
-      "liquidity": "128483801549",
+      "liquidity": "127378005675",
       "shortfall": "0"
     },
     "0xa6a6844545b4b2e2b995416f6c511b2c7d29bdad": {
@@ -126,7 +126,7 @@
     },
     "0xc4d8ff285851af78522b14221432a8b23273cf73": {
       "liquidity": "0",
-      "shortfall": "1154761316372578476419"
+      "shortfall": "806907909310785656861"
     },
     "0xe4b0ff73d94fb2c717022923aef6d7c34e3a330d": {
       "liquidity": "0",
@@ -145,7 +145,7 @@
       "shortfall": "0"
     },
     "0x24dff8b74c6dcc89fcf64218ee0fa627f0907ced": {
-      "liquidity": "90748257733615",
+      "liquidity": "89393007698775",
       "shortfall": "0"
     },
     "0xe78b2a54e94250c9fce8884816a5f60c34173ce8": {
@@ -153,7 +153,7 @@
       "shortfall": "0"
     },
     "0x50a5b95b2b25aecb30c331cb76bc73fe91102b06": {
-      "liquidity": "4729811990432506",
+      "liquidity": "4689093691326433",
       "shortfall": "0"
     },
     "0x93cd7c281e94811c37acef9d368e53bd10d10f57": {
@@ -161,12 +161,12 @@
       "shortfall": "0"
     },
     "0x627cb0dd56dd7f90302ecb1b02bbe7063bf2683d": {
-      "liquidity": "1516184175188",
+      "liquidity": "1494194182865",
       "shortfall": "0"
     },
     "0xc67dcead81b78f112bfa390772856538a0432bc6": {
       "liquidity": "0",
-      "shortfall": "14617792136515082070086"
+      "shortfall": "13403434205909925007393"
     },
     "0xe81974de49acb0f2275f010721ed71fcf9911ad6": {
       "liquidity": "0",
@@ -177,11 +177,11 @@
       "shortfall": "0"
     },
     "0x6aef790386923b51188898021a607d7c977fcd65": {
-      "liquidity": "38950881137154",
+      "liquidity": "39526837181165",
       "shortfall": "0"
     },
     "0xb7656fd70e11e6ef21dbe2449151320b8021dd7e": {
-      "liquidity": "94856996",
+      "liquidity": "94040609",
       "shortfall": "0"
     },
     "0x16f7773b109662294be355d9c554fbfe2ef24147": {
@@ -209,7 +209,7 @@
       "shortfall": "0"
     },
     "0x987dbb46ce510407ce78dd2599fc033cdb8a680b": {
-      "liquidity": "458228195",
+      "liquidity": "407323362",
       "shortfall": "0"
     },
     "0x430aa09d4b3564aaedf7597faf8e9a82d15565ef": {
@@ -221,11 +221,11 @@
       "shortfall": "0"
     },
     "0x6b2b6c9f8ffc582046c0348e2f450ea1286c5382": {
-      "liquidity": "1848697531359662538179",
+      "liquidity": "1698394844100692767217",
       "shortfall": "0"
     },
     "0x59d26fc8304d0d84e1ff27ac98b5473bf93e1097": {
-      "liquidity": "1088267756196259",
+      "liquidity": "967371469243441",
       "shortfall": "0"
     },
     "0xca2563bb6535fff8e1e54062fe29bb22a0f738af": {
@@ -237,24 +237,24 @@
       "shortfall": "0"
     },
     "0xaa8a7b9c3ab7214d82c6513c7c526bce66257d78": {
-      "liquidity": "26881715551",
+      "liquidity": "26956414946",
       "shortfall": "0"
     },
     "0x1562c2ee31057a667c33f4b013551780a1101b3b": {
-      "liquidity": "3040752179651767",
+      "liquidity": "3041974203255407",
       "shortfall": "0"
     },
     "0x72e30bd8d69311fad86dcb8c7edf46294b432343": {
-      "liquidity": "47428498",
+      "liquidity": "47020304",
       "shortfall": "0"
     },
     "0x4ee7290a442be8ba264538f4cd12d4cd8125c1b1": {
-      "liquidity": "7360756560971836155",
+      "liquidity": "60961532819945444",
       "shortfall": "0"
     },
     "0x1cfebaf7db3b9e77d987cce04581177ed9f8083e": {
       "liquidity": "0",
-      "shortfall": "518469502925658410088"
+      "shortfall": "475397386943452335789"
     },
     "0xc69eaabb81739ea91970fe5425fd97e7611bd545": {
       "liquidity": "0",
@@ -265,11 +265,11 @@
       "shortfall": "0"
     },
     "0xaafe5300ecebe76f995906fb73af448406e944be": {
-      "liquidity": "136561517363714",
+      "liquidity": "136939967208502",
       "shortfall": "0"
     },
     "0xd8be4e27358ae0cf64bfa94f20e8dc107589ce1b": {
-      "liquidity": "397166243697",
+      "liquidity": "393748032309",
       "shortfall": "0"
     },
     "0x89347e3b27e2221a122151401849fbbabdce1f54": {
@@ -281,7 +281,7 @@
       "shortfall": "0"
     },
     "0x317f5502c7f6d833b43541ab76533571a31c4241": {
-      "liquidity": "2072959016577122",
+      "liquidity": "1843925435336477",
       "shortfall": "0"
     },
     "0xe546e60d8cc8a85cf103d7b174bf1692dfa3f838": {
@@ -289,7 +289,7 @@
       "shortfall": "0"
     },
     "0x6c15f3f8dd7418effc9090d54285f8e2af4d94a7": {
-      "liquidity": "25706246009",
+      "liquidity": "25485005196",
       "shortfall": "0"
     },
     "0x21c7e5fdb25ace9a7f6776448da8297ca8af9468": {
@@ -297,7 +297,7 @@
       "shortfall": "0"
     },
     "0x4d0086412718e00952018dd0566b3e4813f99867": {
-      "liquidity": "2371382160470005691",
+      "liquidity": "2350972859242159322",
       "shortfall": "0"
     },
     "0xeec037876fd654d4794e933f4b46da99ed7ace04": {
@@ -313,11 +313,11 @@
       "shortfall": "0"
     },
     "0x62d9118f8ed16f23675a76fee1a6b853be810816": {
-      "liquidity": "6165593617259957595",
+      "liquidity": "6112529434067230483",
       "shortfall": "0"
     },
     "0xe0079d48e0d1569100e9d50587dbec3d9ba8e815": {
-      "liquidity": "19040391946906917609",
+      "liquidity": "19009563899350894078",
       "shortfall": "0"
     },
     "0x143a6d15999837d02d30f2beae9204f031afbf99": {
@@ -326,10 +326,10 @@
     },
     "0xc607c980b2ad8624fefcdd57a4fd8b3f7dfaef23": {
       "liquidity": "0",
-      "shortfall": "25733713874577209337317"
+      "shortfall": "23438735590733995563301"
     },
     "0x2210ef8fe0b56a7ea0d3ae77ac6fd1c1dec8a9ba": {
-      "liquidity": "144894061917",
+      "liquidity": "143647031132",
       "shortfall": "0"
     },
     "0xf817a6c8bc5de3cd621af036ce1a5a1af6b05f22": {
@@ -338,10 +338,10 @@
     },
     "0xe36d7960aeaf9d6f23ef140ca7a5f358d6c78f4b": {
       "liquidity": "0",
-      "shortfall": "1006372749158830933651"
+      "shortfall": "770890976954669011797"
     },
     "0x801a485a0b1322d1b21e70a258b11814ad1d79eb": {
-      "liquidity": "2358916854630370152868",
+      "liquidity": "1868303076267272843273",
       "shortfall": "0"
     },
     "0xefc1ad4d6c721de3798ff989a39181b982e80d8e": {
@@ -365,27 +365,27 @@
       "shortfall": "0"
     },
     "0xc9905da06ed8ea0e1ce5fb11e95c1b062a29e59d": {
-      "liquidity": "12173008243174",
+      "liquidity": "10820701800879",
       "shortfall": "0"
     },
     "0x896002e29fe4cda28a3ae139b0bf7bac26b33a8c": {
-      "liquidity": "79878507480285",
+      "liquidity": "79191033083297",
       "shortfall": "0"
     },
     "0x7f85cf44e446a4b1aace2a28774e88cd6d4e3441": {
-      "liquidity": "8160189260059016",
+      "liquidity": "8180289021340406",
       "shortfall": "0"
     },
     "0xb04c7194093f4f8a58686a1d28bb3c39365781ee": {
       "liquidity": "0",
-      "shortfall": "2027631773761553"
+      "shortfall": "2175348374402616"
     },
     "0x19bb9054b006e152aebb633fe3f62e47bcef8be7": {
       "liquidity": "0",
       "shortfall": "0"
     },
     "0x95d17cb1191b067d73a38ec2481911657d8d1ec8": {
-      "liquidity": "82174805647809",
+      "liquidity": "81467568160000",
       "shortfall": "0"
     },
     "0x6c3036cd677f721c86eaf4dbbef4188ca81aad11": {
@@ -393,7 +393,7 @@
       "shortfall": "0"
     },
     "0xf83b01129291b6d893b156f973e90b2f58f5a1b2": {
-      "liquidity": "6664356217739633003",
+      "liquidity": "1485796530627584491",
       "shortfall": "0"
     },
     "0x32e6f7e815a0135cbbac546ebaf852fe13adb6e2": {
@@ -409,11 +409,11 @@
       "shortfall": "0"
     },
     "0x6a8641c1e84cb958c6e465b27318e5bf1f79dc48": {
-      "liquidity": "26009964651306831270805",
+      "liquidity": "26082492778667947398304",
       "shortfall": "0"
     },
     "0x0257ffe501e6d7670c5510b6d8a558eddea79475": {
-      "liquidity": "146151974951936709524",
+      "liquidity": "144552705211128665522",
       "shortfall": "0"
     },
     "0xc1b5bcbc94e6127ac3ee4054d0664e4f6afe45d3": {
@@ -421,11 +421,11 @@
       "shortfall": "0"
     },
     "0xb138cf648a69913bb2bfe3a488032b6b741c2545": {
-      "liquidity": "1348344774548",
+      "liquidity": "1336740244868",
       "shortfall": "0"
     },
     "0x2400589fb91bb742f6d604b1577632356adebb2c": {
-      "liquidity": "2756109758076178",
+      "liquidity": "2744788693701952",
       "shortfall": "0"
     },
     "0x0f4c777b170bc2e2d48be6ece10b43d7ba5a9999": {
@@ -433,7 +433,7 @@
       "shortfall": "0"
     },
     "0x3a542300159d084382e228ec8f54a402451e5a67": {
-      "liquidity": "17891155375543313920",
+      "liquidity": "17589645557294493823",
       "shortfall": "0"
     },
     "0x3c24d14bd4c0d7c1c8cbef44719e9b526874fad0": {
@@ -457,11 +457,11 @@
       "shortfall": "0"
     },
     "0x4ccb082a48975b03061da360271e6ce1f6e1bcc9": {
-      "liquidity": "483717808591749",
+      "liquidity": "0",
       "shortfall": "0"
     },
     "0x66f02e34ce51397d9ecee0bec87e09ef9d67993e": {
-      "liquidity": "64110711500972728552",
+      "liquidity": "0",
       "shortfall": "0"
     },
     "0xb084dd459c12224036a5e400be39c9a0aad1b47c": {
@@ -481,7 +481,7 @@
       "shortfall": "0"
     },
     "0x589f24cc3bba5bf077009c22c25bf6829a588e53": {
-      "liquidity": "1051057968010291",
+      "liquidity": "1042012037314414",
       "shortfall": "0"
     },
     "0xe89150ded8556305e7bd6fd5acbf76af6d974c04": {
@@ -489,11 +489,11 @@
       "shortfall": "0"
     },
     "0x57c18bf71c60c7f024ab3a1a9b401175b04bf1ab": {
-      "liquidity": "39689887834445185",
+      "liquidity": "39348296803688643",
       "shortfall": "0"
     },
     "0xea944340c5b3197f3fb253d6a1cc13dfbcccad78": {
-      "liquidity": "1388159788846032",
+      "liquidity": "1392017232258114",
       "shortfall": "0"
     },
     "0x33765a943d510c65537ed9c609079fdd5331be70": {
@@ -501,7 +501,7 @@
       "shortfall": "0"
     },
     "0xbfcbb2c5f54313ea8945777a4ee6141420c67e0b": {
-      "liquidity": "0",
+      "liquidity": "178413503928532159",
       "shortfall": "0"
     },
     "0x79e3b3795ab351d89120aed570ef748185581718": {
@@ -509,11 +509,11 @@
       "shortfall": "0"
     },
     "0xa4517a2b21f85f6a6a63601cea7fa4e34da92856": {
-      "liquidity": "17255545053552246",
+      "liquidity": "17107035200218939",
       "shortfall": "0"
     },
     "0x2bf6cf92fd73feaa136ba8163bc86fe9cf0c08dc": {
-      "liquidity": "100864543998168865",
+      "liquidity": "99996453272016154",
       "shortfall": "0"
     },
     "0xd2c0884ae6950bf8cac1b91eb181449a087f58e1": {
@@ -525,7 +525,7 @@
       "shortfall": "0"
     },
     "0xd13003bc65aa783c18d83dbb4deaf3fc1d6b3a85": {
-      "liquidity": "238957683215240677766",
+      "liquidity": "236901093847763304836",
       "shortfall": "0"
     },
     "0xfe5a0963409609243a819a28034505567418b32c": {
@@ -533,23 +533,23 @@
       "shortfall": "0"
     },
     "0x4c55af76789191eba1a79d84f8008b0e4c4007b9": {
-      "liquidity": "118767883984879",
+      "liquidity": "117745708158120",
       "shortfall": "0"
     },
     "0x930145690253537e9a9a246b4524720a0f3bef0c": {
       "liquidity": "0",
-      "shortfall": "6083955206358172354900"
+      "shortfall": "5358077868349167391614"
     },
     "0xe1081b3dc3ff3695fe31597ff99b00cc2219aeaa": {
       "liquidity": "0",
-      "shortfall": "42207362350092923661"
+      "shortfall": "46170707847792165202"
     },
     "0x5614c860bfcb8d8ea59e14c8aee0b3f73511cd5b": {
       "liquidity": "0",
       "shortfall": "0"
     },
     "0x6e319c4e3482008f7c514c5f6d788dc0ebf3835e": {
-      "liquidity": "189987350358440698943",
+      "liquidity": "199197650932013655809",
       "shortfall": "0"
     },
     "0xc5e3b3832c918ff4803a1cd433bd96318762a6f8": {
@@ -557,7 +557,7 @@
       "shortfall": "0"
     },
     "0xf2f8bff6ec2b77fe7f66fdb27c1465e03d3915f6": {
-      "liquidity": "19967397730",
+      "liquidity": "0",
       "shortfall": "0"
     },
     "0xded76013ab612366830edf3fc206c06f2a475022": {
@@ -573,27 +573,27 @@
       "shortfall": "0"
     },
     "0x5ec521bc72fc2039f20f422688c602e8511a5739": {
-      "liquidity": "193346428210514",
+      "liquidity": "192853219245023",
       "shortfall": "0"
     },
     "0x15c057868bb6d0304555ab20a614de94aaa25290": {
       "liquidity": "0",
-      "shortfall": "272694868883985419664"
+      "shortfall": "239792051214881752676"
     },
     "0x8f00dde4f0e3641c75c7a7e924c811198f90ef30": {
-      "liquidity": "165538466102003767",
+      "liquidity": "164123238587091554",
       "shortfall": "0"
     },
     "0x039a33aca90ecfc1b97f88de30264ebd84cc7c22": {
-      "liquidity": "230533256812072432431",
+      "liquidity": "228549172272791964444",
       "shortfall": "0"
     },
     "0x0d133a56c703174d5de3a9677dbae485bc9b381a": {
-      "liquidity": "19377967948",
+      "liquidity": "19385755605",
       "shortfall": "0"
     },
     "0x0dd7fe601593947f54d084f1fd2892064044e6d8": {
-      "liquidity": "473330869183757773",
+      "liquidity": "469255528356505532",
       "shortfall": "0"
     },
     "0x396932cf21d7a37eb8db923d669fcd5bc0c751d2": {
@@ -601,11 +601,11 @@
       "shortfall": "0"
     },
     "0x733ab147ef8f4efea84ced248f1afe74fbe21582": {
-      "liquidity": "7164331853714166",
+      "liquidity": "7102672029609844",
       "shortfall": "0"
     },
     "0x8fa2a5bafa13e4004b6676bc6842687b208f34c5": {
-      "liquidity": "458227126165483194998",
+      "liquidity": "454407858590675694355",
       "shortfall": "0"
     },
     "0xd8abbc1aac264f84d3aae1e6e501fe8ec3eb99d1": {
@@ -613,11 +613,11 @@
       "shortfall": "0"
     },
     "0xddd65fbcc456e559e6b490fdcf6c501b96af0632": {
-      "liquidity": "73510248825701711101",
+      "liquidity": "76721408836081952935",
       "shortfall": "0"
     },
     "0x1a90c9da4c3e3dd7eada67d6a09c4828417d4aca": {
-      "liquidity": "96164173183299",
+      "liquidity": "95336536199880",
       "shortfall": "0"
     },
     "0xad2d2ed3b964d3421d5bb62bd7cba8ffdbbe4c74": {
@@ -625,7 +625,7 @@
       "shortfall": "0"
     },
     "0xad36c2a253dedd7fe5a79cd0841dc078d7a093b9": {
-      "liquidity": "110114211948347696508",
+      "liquidity": "56799819088296914492",
       "shortfall": "0"
     },
     "0x2373a594529cd4261f9cd5ecc626a89065139822": {
@@ -641,7 +641,7 @@
       "shortfall": "0"
     },
     "0x02b72485ecdaabd5f9af68d9a5d2b2ca54d5339b": {
-      "liquidity": "611340736346238145523",
+      "liquidity": "1158682095723590572871",
       "shortfall": "0"
     },
     "0xc01eca3e94d17e5a0821aadd89a44a9a2e927a02": {
@@ -673,7 +673,7 @@
       "shortfall": "0"
     },
     "0x87fc1313880d579039ac48db8b25428ed5f33c4a": {
-      "liquidity": "3326560739103545588803",
+      "liquidity": "3115442917297866243693",
       "shortfall": "0"
     },
     "0x75fa742849340d0abc61c9e0a76a1b18acc80b07": {
@@ -681,7 +681,7 @@
       "shortfall": "0"
     },
     "0x939a036afcfddf272005ae37cefd300db0b01fb9": {
-      "liquidity": "10162474639857",
+      "liquidity": "10074416955438",
       "shortfall": "0"
     },
     "0x7e98d97e0703a79299b65cb57a992a77a5079678": {
@@ -705,11 +705,11 @@
       "shortfall": "0"
     },
     "0xc492b52f7c5286750f4cc847eefa54fd18782c77": {
-      "liquidity": "2617957402109352157",
+      "liquidity": "775681023858301197",
       "shortfall": "0"
     },
     "0xde8ccede48c54145f2ca6045031d1f9833a32d1d": {
-      "liquidity": "30304189282606452536",
+      "liquidity": "28177721468089481238",
       "shortfall": "0"
     },
     "0xb533c4da86afb2fa8fc5bf4ec2a854875c09c848": {
@@ -717,7 +717,7 @@
       "shortfall": "0"
     },
     "0xdc6f003a5152f5133f99be8dd354cdd6f9ecc252": {
-      "liquidity": "412597987046921537189",
+      "liquidity": "369106632760919165478",
       "shortfall": "0"
     },
     "0x8e4c7a3c7ae9f94cfd5e7b2228df8eba2b329a45": {
@@ -725,11 +725,11 @@
       "shortfall": "0"
     },
     "0xe3a8ef86b0b1d496b1f7e123eb5060b5993de1b4": {
-      "liquidity": "14839439321935174",
+      "liquidity": "14711723683257309",
       "shortfall": "0"
     },
     "0xaf5cbf9ad651de40bf0c8d5fd5f751956b51a51c": {
-      "liquidity": "7765794224598363686716",
+      "liquidity": "7686038726962781303993",
       "shortfall": "0"
     },
     "0x8c63c4789926aaee6fea8bb685f8107a8f9129a4": {
@@ -737,7 +737,7 @@
       "shortfall": "0"
     },
     "0xf3d44922cc039a3a36801dbe460f16303d0cc742": {
-      "liquidity": "853884853968953",
+      "liquidity": "846543024042541",
       "shortfall": "0"
     },
     "0x2f5f03c22a1f8585a346ffeca71e4728d0d1cf9f": {
@@ -745,7 +745,7 @@
       "shortfall": "0"
     },
     "0x6e5489d1f64f8d4ae0c7bdb4e490fdc064894789": {
-      "liquidity": "5181521520390010834803",
+      "liquidity": "5333605720728101335559",
       "shortfall": "0"
     },
     "0x46aaa27dbc0c4d4d1c8afb81e7e032d44e0fde36": {
@@ -757,11 +757,11 @@
       "shortfall": "0"
     },
     "0x9a5d2e931bb9e02299dc87a6be263eb8984be99c": {
-      "liquidity": "1679889274375934581087",
+      "liquidity": "1429122085325650183619",
       "shortfall": "0"
     },
     "0x3543be68329d2646c3dfbc5ea67827427289c4b0": {
-      "liquidity": "587312362015779464175",
+      "liquidity": "604634679506640283539",
       "shortfall": "0"
     },
     "0x8d4f08b86172742f34e438cbb7ee6d572408d861": {
@@ -769,7 +769,7 @@
       "shortfall": "0"
     },
     "0x831204031ae1944bf0e18d2b0b6abd0272153609": {
-      "liquidity": "69862526513004787282",
+      "liquidity": "67678889402388748232",
       "shortfall": "0"
     },
     "0x4404c2f95a783684555ce449729770a37bb30414": {
@@ -777,19 +777,19 @@
       "shortfall": "0"
     },
     "0x01e8a979e7c5a1bb5c7af02a5f11263d0af4c19e": {
-      "liquidity": "182807742220116602983",
+      "liquidity": "181234407335530403760",
       "shortfall": "0"
     },
     "0x3d01ecb4632c05e3f344868959f143df223963dd": {
       "liquidity": "0",
-      "shortfall": "190500355835205998772"
+      "shortfall": "152489940691089124900"
     },
     "0x6d65b434f71a576bca4032eb49c791e3d1dc3cab": {
-      "liquidity": "0",
+      "liquidity": "27532585541120395671",
       "shortfall": "0"
     },
     "0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab": {
-      "liquidity": "2504533123477382616514247",
+      "liquidity": "2522805833003441461060522",
       "shortfall": "0"
     },
     "0xee5437757f19995a534c78699d3cb289b86d63c9": {
@@ -801,11 +801,11 @@
       "shortfall": "0"
     },
     "0x75ddfa467a515e0fff27ce35af3cfd9091d857c4": {
-      "liquidity": "375875775543891080395",
+      "liquidity": "387238915776063241329",
       "shortfall": "0"
     },
     "0x7ecbe5ffac898d2b4471d222792abfcbc6597c89": {
-      "liquidity": "6585572846304755890685",
+      "liquidity": "6528894111759700517108",
       "shortfall": "0"
     },
     "0xfa12d8a61e83afe09ace085020eb920a75bbff50": {
@@ -813,11 +813,11 @@
       "shortfall": "0"
     },
     "0x72fbbc8bca67426642b35f7d072b461dc4ae0ea0": {
-      "liquidity": "601698649288184",
+      "liquidity": "473835157976005",
       "shortfall": "0"
     },
     "0x1a7021be4142186db64cbbc4b628b8bbb1cd5691": {
-      "liquidity": "25844025796731",
+      "liquidity": "25621599181477",
       "shortfall": "0"
     },
     "0x833cc636c2a48ee7d404170b94706354a68d5e15": {
@@ -826,10 +826,10 @@
     },
     "0x1905b0ac7fd4cedbd49889ba0e98bd35096b533d": {
       "liquidity": "0",
-      "shortfall": "966819249800441620697"
+      "shortfall": "1057337356579510928306"
     },
     "0x189ecebfa5d3c5ea82d5172b1069c3305a0a149a": {
-      "liquidity": "362098695994473792513838",
+      "liquidity": "353855753825206200686807",
       "shortfall": "0"
     },
     "0x25ebb70542cdfb7d64d684dc50669c2ea5c784ef": {
@@ -837,7 +837,7 @@
       "shortfall": "0"
     },
     "0x38c39202e3e8152b0467ffad0c080241c7834dae": {
-      "liquidity": "1926943134119493",
+      "liquidity": "1910358815615456",
       "shortfall": "0"
     },
     "0x7f4b42a4d7f0bda5efa20d44a1e6f4e209bdccfe": {
@@ -857,11 +857,11 @@
       "shortfall": "0"
     },
     "0x8643c722031a05fcbb12212804693b81ccf5a4d5": {
-      "liquidity": "484967079294152846",
+      "liquidity": "486314714544886591",
       "shortfall": "0"
     },
     "0xc457f29e240eab1032ab155be96dcfbd4f1423ed": {
-      "liquidity": "47179254401118999254",
+      "liquidity": "46467713543735901764",
       "shortfall": "0"
     },
     "0x91ab25c1d5717e6bf3f4dc54562de8d9706f1950": {
@@ -881,7 +881,7 @@
       "shortfall": "0"
     },
     "0x9debadcaae4820092c8ff7dc741c9ec7d9e95027": {
-      "liquidity": "21617087014335920",
+      "liquidity": "21677156964900601",
       "shortfall": "0"
     },
     "0xc7ad881c1749cb51bf6b34987c841a7117675dad": {
@@ -893,7 +893,7 @@
       "shortfall": "0"
     },
     "0x2a4f94618a05e09bff52718e0ac3b8904344f064": {
-      "liquidity": "30086017298910353045",
+      "liquidity": "39689652979745960331",
       "shortfall": "0"
     },
     "0xae7853a2ab2d63e2d9804a4dd848a4c7f035ebff": {
@@ -906,14 +906,14 @@
     },
     "0x9651406c462ab29b15afc3bfda75e8d0bb644af8": {
       "liquidity": "0",
-      "shortfall": "19164463394691653704"
+      "shortfall": "475053107887722227761"
     },
     "0xad59b03e636bd52d8ed1eece56a49d8eac327883": {
       "liquidity": "0",
       "shortfall": "0"
     },
     "0x4dd1ebf184ffb6098967d36f1ecfeb0e44bd42d3": {
-      "liquidity": "2265539638176910",
+      "liquidity": "2198708764373571",
       "shortfall": "0"
     },
     "0xf53cb5328a5d3fb2321046ffa2439bae26495505": {
@@ -921,11 +921,11 @@
       "shortfall": "0"
     },
     "0x07759bfb542723b5a89c5a927720bb8c299cd206": {
-      "liquidity": "435386309083569810032",
+      "liquidity": "508706465724889686968",
       "shortfall": "0"
     },
     "0xa5f61adb1afd0a16714f2c36a8f78ef6bfc14b9c": {
-      "liquidity": "1146627931772542",
+      "liquidity": "1149950579586494",
       "shortfall": "0"
     },
     "0x4d1950bdb1451df636ce705ede3ba5942ad81616": {
@@ -941,7 +941,7 @@
       "shortfall": "0"
     },
     "0x277fff44da1468159383313ea309e0dc20bfe173": {
-      "liquidity": "464105279801519207",
+      "liquidity": "460110957581002133",
       "shortfall": "0"
     },
     "0x50dd8698a42ece1386a0a8f1f315a44acc1826b5": {
@@ -961,7 +961,11 @@
       "shortfall": "0"
     },
     "0xcba1a275e2d858ecffaf7a87f606f74b719a8a93": {
-      "liquidity": "2334959690787160112825",
+      "liquidity": "2369486168695397714843",
+      "shortfall": "0"
+    },
+    "0xd87eb11915056459297f74d7e70ad7bbbd2de632": {
+      "liquidity": "0",
       "shortfall": "0"
     },
     "0x92af72ec27eb22a966c67a87be33c342acc0b77a": {
@@ -969,15 +973,15 @@
       "shortfall": "0"
     },
     "0x1284af164b538f7099ae616e8b056d57675ff6f2": {
-      "liquidity": "8220708119727300",
+      "liquidity": "8243551971446600",
       "shortfall": "0"
     },
     "0x0d9a57161b4b20b1b2d0f6019c3eca4eea394b6b": {
-      "liquidity": "6330250316968725",
+      "liquidity": "6348179946308433",
       "shortfall": "0"
     },
     "0xa706ed4676204e1b9b3aa005cf8ab5c92d30a830": {
-      "liquidity": "623560193959559",
+      "liquidity": "625292954252396",
       "shortfall": "0"
     },
     "0x935914ad4a126647af35378384d70c741892a5fa": {
@@ -989,7 +993,7 @@
       "shortfall": "0"
     },
     "0xe65c24564aedf15dd226617edc37fa786b6bfa8e": {
-      "liquidity": "7561650463842049",
+      "liquidity": "7581766006292958",
       "shortfall": "0"
     },
     "0x67a26355ac3fd9d21afa2dffc66c69637fe62626": {
@@ -1001,15 +1005,15 @@
       "shortfall": "0"
     },
     "0x8d8bea3962ee60b35c138e62e656126bab9c8128": {
-      "liquidity": "8213205965811030",
+      "liquidity": "8236051200953990",
       "shortfall": "0"
     },
     "0x9420fdfcb670db7e97d2da5dd8b8f66b11309ab9": {
-      "liquidity": "19509713338061",
+      "liquidity": "19563927280715",
       "shortfall": "0"
     },
     "0xce168ab473e4b951dc24f3f79686d0fc63660512": {
-      "liquidity": "973458262802599397344",
+      "liquidity": "976488035210455818435",
       "shortfall": "0"
     },
     "0x41885e0ff1ad88fc45b37239e25b122cebec4336": {
@@ -1021,15 +1025,15 @@
       "shortfall": "0"
     },
     "0x8b80e230e290c41b4ad14ff076dfa4bff35311c0": {
-      "liquidity": "1109822935982721337",
+      "liquidity": "42298929816413642942",
       "shortfall": "0"
     },
     "0x96bf637928168033236fddf2db92975f40f23ebe": {
-      "liquidity": "12161871486236803",
+      "liquidity": "79291225727063",
       "shortfall": "0"
     },
     "0xbff54f0ac36e962607c77f4a79ec4ecd40c1b48c": {
-      "liquidity": "76827574984710925",
+      "liquidity": "77043346270703672",
       "shortfall": "0"
     },
     "0xa3115f13b7efed56e53005d2244f02497753b749": {
@@ -1049,7 +1053,7 @@
       "shortfall": "0"
     },
     "0x680a83579e48d4fafd11798369e10ac206cb56cb": {
-      "liquidity": "21469265613817894",
+      "liquidity": "21784678218183968",
       "shortfall": "0"
     },
     "0xa7d452ddf656e9c9eaad6dd07ad75302c913d33a": {
@@ -1057,7 +1061,7 @@
       "shortfall": "0"
     },
     "0x8dd0f1c1bdef8e2c180df44d348db44494c54ea7": {
-      "liquidity": "359184102625527270108",
+      "liquidity": "376258033058525149044",
       "shortfall": "0"
     },
     "0x474eac4a4d7932bd62abe165abd7d2b9f2e2f88d": {
@@ -1065,7 +1069,7 @@
       "shortfall": "0"
     },
     "0x913618a54453f41dfbbb9d5c61396a0451fdf2a8": {
-      "liquidity": "553337415058039952",
+      "liquidity": "555642445486468815",
       "shortfall": "0"
     },
     "0xb22dfc8eb2f8c32e745e4bf6b9ca71c84c628ff5": {
@@ -1073,7 +1077,7 @@
       "shortfall": "0"
     },
     "0xe7539cb32c0f925f5b7d5efcc0abdc8df5f4e650": {
-      "liquidity": "172784975427908606",
+      "liquidity": "173022190495609701",
       "shortfall": "0"
     },
     "0xadd7f4850429cade47cfb041e702275a22c1fa46": {
@@ -1097,11 +1101,11 @@
       "shortfall": "0"
     },
     "0xa68ca9a308c9fb7fc608ff5a34bfe3c0a2b93b56": {
-      "liquidity": "3204392",
+      "liquidity": "2848415",
       "shortfall": "0"
     },
     "0x326ca8021876acb176503874348d1035a5173601": {
-      "liquidity": "22727440385545029",
+      "liquidity": "22790595806047155",
       "shortfall": "0"
     },
     "0x4e69a464eaebcc2d1adb872a4ec289ba6259d9a5": {
@@ -1109,11 +1113,11 @@
       "shortfall": "0"
     },
     "0x5909ae52711488ba5011f68472786788d10f53be": {
-      "liquidity": "6220648882561216",
+      "liquidity": "6237934933665506",
       "shortfall": "0"
     },
     "0x1ca7cb775085fcf34b7074b65348770b870ced60": {
-      "liquidity": "7079134307635253",
+      "liquidity": "7098805933493925",
       "shortfall": "0"
     },
     "0x6c448f774f74909443d5cea433f8c2b769b921a5": {
@@ -1121,11 +1125,11 @@
       "shortfall": "0"
     },
     "0x0bbaf4af7344754ca26b5def315756744f5d9e8b": {
-      "liquidity": "524557466209952",
+      "liquidity": "526015115940588",
       "shortfall": "0"
     },
     "0x6d42977a60aef0de154dc255de03070a690cf041": {
-      "liquidity": "3537248117",
+      "liquidity": "3538669674",
       "shortfall": "0"
     },
     "0xcd79272e57a870c0b1f69a8c840244364c4a0260": {
@@ -1133,7 +1137,7 @@
       "shortfall": "0"
     },
     "0xcda12251cb32cf2671e0a33c0f1d327e1d856989": {
-      "liquidity": "13042646674434",
+      "liquidity": "13078889815818",
       "shortfall": "0"
     },
     "0xf544dbde9768b152587285d8bfcd065f67112371": {
@@ -1141,11 +1145,11 @@
       "shortfall": "0"
     },
     "0x829ceb00fc74bd087b1e50d31ec628a90894cd52": {
-      "liquidity": "86466427297480",
+      "liquidity": "86959574200556",
       "shortfall": "0"
     },
     "0xf7a819deba0d69c4f3567cb9fac04b05ec3a6516": {
-      "liquidity": "1196660280825021",
+      "liquidity": "1193190713891605",
       "shortfall": "0"
     },
     "0xb9c5747e56277def127678def8cf2308badb948b": {
@@ -1153,7 +1157,7 @@
       "shortfall": "0"
     },
     "0xdeb8c4424456af564720fb10c035d1832b699216": {
-      "liquidity": "90427789317",
+      "liquidity": "90679071685",
       "shortfall": "0"
     },
     "0x4f0c041455305a177c1699501e8c3c1eeec5aa7e": {
@@ -1161,23 +1165,23 @@
       "shortfall": "0"
     },
     "0xecc40bb63c6f7227071dfd5cb296eddf761f09eb": {
-      "liquidity": "5400490583961",
+      "liquidity": "4800546998748",
       "shortfall": "0"
     },
     "0x4ae0569c52c76b2ed89db7ab8bc56784db01b6c4": {
-      "liquidity": "8349204723120414",
+      "liquidity": "8372700198222831",
       "shortfall": "0"
     },
     "0x9a8061e1bc16bd9c82fd99737f975bb74a572c1f": {
-      "liquidity": "101502403063801",
+      "liquidity": "90226443101436",
       "shortfall": "0"
     },
     "0x2130fd01026867a6c8dde24ad5e64f2e2dfce196": {
-      "liquidity": "787075758607158",
+      "liquidity": "789388895090633",
       "shortfall": "0"
     },
     "0xedad9aaff8932605729c0331eb3b84adcc9435b8": {
-      "liquidity": "53264269215784432288",
+      "liquidity": "52584508594350658899",
       "shortfall": "0"
     },
     "0x795e916860996ee17cfc43ab516fa8402ea20fb5": {
@@ -1185,7 +1189,7 @@
       "shortfall": "0"
     },
     "0x3aff5ae7a64450f96425c90c4ba928b9db8fbfc3": {
-      "liquidity": "45125850874537",
+      "liquidity": "45251247401342",
       "shortfall": "0"
     },
     "0x4e4b74681b93fdd210c3ad3c73b85032ad786ed3": {
@@ -1205,28 +1209,28 @@
       "shortfall": "0"
     },
     "0x2065e7aa17fba10b30357de8f8a11858b00fa863": {
-      "liquidity": "995774374542",
+      "liquidity": "998541450301",
       "shortfall": "0"
     },
     "0xb838096981bfcb62dc4b0f2025bf758937ac85cf": {
       "liquidity": "0",
-      "shortfall": "26246292755043108895798"
+      "shortfall": "26568659874445652957183"
     },
     "0x19af654f499376f4ab999ca773a9713373cdea23": {
       "liquidity": "0",
-      "shortfall": "180996222358135522863"
+      "shortfall": "168719131547827201689"
     },
     "0x7da9949382c0f36700b563712ff0a6e38374aa92": {
-      "liquidity": "3708946152500074962",
+      "liquidity": "69863316807298721139",
       "shortfall": "0"
     },
     "0x153248530a76eba146e0aa0b7bbf85bfeec3c028": {
       "liquidity": "0",
-      "shortfall": "42865502057703105913408"
+      "shortfall": "43389842185518528334784"
     },
     "0x146c680abdfd83e7ca040c877f137c43f8949e09": {
       "liquidity": "0",
-      "shortfall": "96309618951745046229"
+      "shortfall": "96642639957105716620"
     },
     "0x5b1a102a8f82fd2c1231fca763a7170920f7a7e3": {
       "liquidity": "0",
@@ -1234,18 +1238,18 @@
     },
     "0x9a904eff2c32a311db0b007e790391c077d59ef4": {
       "liquidity": "0",
-      "shortfall": "15964534310409749944018"
+      "shortfall": "16208907025267416121658"
     },
     "0x0da04a43a5d3e5dad435be6e2f4e23543e002cc1": {
       "liquidity": "0",
-      "shortfall": "2700473639191284106"
+      "shortfall": "2699076223873130180"
     },
     "0x1235f041e1f073dc1a708558ab5e446643f2dab3": {
       "liquidity": "0",
-      "shortfall": "2939422895262142720"
+      "shortfall": "2695228712012063220"
     },
     "0x23ee3444bee399b0c9473c4f9518c841f9c2c4e9": {
-      "liquidity": "38748718757740",
+      "liquidity": "38856394395012",
       "shortfall": "0"
     },
     "0x1b1e883b787ee869412cf6cc9b53c0b3836182c2": {
@@ -1254,23 +1258,23 @@
     },
     "0x60f9c8582ba286eb076f700dbb1376371ef77599": {
       "liquidity": "0",
-      "shortfall": "133653513321357074"
+      "shortfall": "134316531524559644"
     },
     "0x5bc9f09d1b9f2e7095b7765785aab16e79fec4ee": {
       "liquidity": "0",
-      "shortfall": "385024678540532387544"
+      "shortfall": "381014823288070050898"
     },
     "0x7cc19138308c6efdc407c186afe77fb5e811f435": {
-      "liquidity": "942519007257014",
+      "liquidity": "945922434041748",
       "shortfall": "0"
     },
     "0xbc4c530117f7642d68997150da15317e1bd87e0b": {
-      "liquidity": "397691335563056990497",
+      "liquidity": "704374003180545146767",
       "shortfall": "0"
     },
     "0x0bf4c0f7eac4cddad5a1197ff92d37de5ba90897": {
       "liquidity": "0",
-      "shortfall": "308993408778431935775"
+      "shortfall": "283323622985123425937"
     },
     "0x5580ba66f8d6dc71adb0ca1d1c6b3d142ff7aaca": {
       "liquidity": "0",
@@ -1305,52 +1309,52 @@
       "shortfall": "0"
     },
     "0xd751a243325cd9d3b50480e9da8ff6b8b8e5ded7": {
-      "liquidity": "2827440328702",
+      "liquidity": "2828576626110",
       "shortfall": "0"
     },
     "0xcbe126a4e957ac7b7045c53819f45ba7fd3d031d": {
       "liquidity": "0",
-      "shortfall": "43327881503804495226927"
+      "shortfall": "43377304608657078523665"
     },
     "0xb86847647bea33a77b01d48df0193102809c598e": {
-      "liquidity": "1228304708125464989576",
+      "liquidity": "1228798341692789533234",
       "shortfall": "0"
     },
     "0xc96d9d13293740478fba70f5172138affa31c0a6": {
       "liquidity": "0",
-      "shortfall": "108793009703764173981796"
+      "shortfall": "109005863775321425238821"
     },
     "0x2c68248ca44db8c9fb97d288b91c425ddf90a678": {
-      "liquidity": "136792583112",
+      "liquidity": "137172704804",
       "shortfall": "0"
     },
     "0xb0a314bca93a8f6f8d28407a94b40807960f5cc8": {
       "liquidity": "0",
-      "shortfall": "4137935019936449410441"
+      "shortfall": "4152243205943509281753"
     },
     "0xc7748db7338cc106aeb041b59965d0101eda8636": {
       "liquidity": "0",
       "shortfall": "0"
     },
     "0x9e9324ecad520ae096097493cd237a3c1706941b": {
-      "liquidity": "126316031299471415",
+      "liquidity": "126667040561295359",
       "shortfall": "0"
     },
     "0x6f75ebbb2b737f16878261275a01fd5160939b8b": {
       "liquidity": "0",
-      "shortfall": "13727674582945304216355"
+      "shortfall": "13775142250951380402217"
     },
     "0xf9ab2ef128d856339ad2c258cdaa14a22c662a14": {
-      "liquidity": "1141216786738407",
+      "liquidity": "1144388020490554",
       "shortfall": "0"
     },
     "0x4632ba70a622366493ce1662b975ddb85321c3b7": {
-      "liquidity": "1267034246176",
+      "liquidity": "1270541090729",
       "shortfall": "0"
     },
     "0xba3cf2012a1a54b69b40b60ba586efadf6efb04a": {
       "liquidity": "0",
-      "shortfall": "3449023955520159929"
+      "shortfall": "2595380213276976411"
     },
     "0xe4ac36454e774f346c043661a274ce5a4b551c30": {
       "liquidity": "0",
@@ -1358,10 +1362,10 @@
     },
     "0x4e2972c77869e4b3ac1a6876b961e50ae1d87ca5": {
       "liquidity": "0",
-      "shortfall": "426217328433858529190"
+      "shortfall": "390809096282918390429"
     },
     "0x17ee630d8aa0e9f44fba41af50c6b2966349ff17": {
-      "liquidity": "69433499363214776648553",
+      "liquidity": "69786920969533824498840",
       "shortfall": "0"
     },
     "0x0baa50925007811955e2c0cae8d75dab0b16754d": {
@@ -1369,27 +1373,27 @@
       "shortfall": "0"
     },
     "0x6f6d544de5550d44ea5b821abd022fedf5059c1c": {
-      "liquidity": "108089240848503",
+      "liquidity": "108389601176888",
       "shortfall": "0"
     },
     "0xf7a82b8c0127e40a2b84e9e72de68d00fb6a89c7": {
       "liquidity": "0",
-      "shortfall": "362286104771105653536415"
+      "shortfall": "363717008517213384754984"
     },
     "0xac1ea4620de31eacf8f1249b7d543878185b4e93": {
-      "liquidity": "10668492336",
+      "liquidity": "9483323425",
       "shortfall": "0"
     },
     "0x53354abf0ca0490d376c3ef0f02dfbbdaff28674": {
       "liquidity": "0",
-      "shortfall": "124286610977973937603825"
+      "shortfall": "124716370258976832890310"
     },
     "0xdc1a6e4638b1b09840faa7ed0808aacaf7d9cecb": {
       "liquidity": "0",
       "shortfall": "0"
     },
     "0xd871aa49ed68e021219cba4eca065122fe8e307c": {
-      "liquidity": "22040768776084922",
+      "liquidity": "22069813604886898",
       "shortfall": "0"
     },
     "0x9a5eff74128de8ffca527b8147163eb8cb3947e6": {
@@ -1398,11 +1402,11 @@
     },
     "0xf26caebb5b5cd05b94777dd7ef4b5e54c9fcbad6": {
       "liquidity": "0",
-      "shortfall": "402972349960204189496087"
+      "shortfall": "402909753050516675184027"
     },
     "0x763e18ca7f1657ba7fd7c6274ce2a3341e63ec51": {
       "liquidity": "0",
-      "shortfall": "211789783934019082181393"
+      "shortfall": "212316053784020795975839"
     },
     "0x82dcff3c5f3cd89eee6887ca817a92289a73b7b8": {
       "liquidity": "0",
@@ -1410,10 +1414,10 @@
     },
     "0x5d1e0065a58c2ddf6e550c440805412bf4b79708": {
       "liquidity": "0",
-      "shortfall": "236925642519089132125"
+      "shortfall": "217237889686774307980"
     },
     "0x472954f5c9e1ea75648d6de0611fe5c8d1ae3f1a": {
-      "liquidity": "20857400232551932",
+      "liquidity": "18540339719191981",
       "shortfall": "0"
     },
     "0x4a73c038c21180b66821735405119325ec203ba1": {
@@ -1421,7 +1425,7 @@
       "shortfall": "0"
     },
     "0x632a4f33465634692c8c7d65006949bf64d8d851": {
-      "liquidity": "3016581476366424",
+      "liquidity": "3026366001039554",
       "shortfall": "0"
     },
     "0xdcf5c7dc0eda558635b6b6009fefd520d6fd9664": {
@@ -1429,7 +1433,7 @@
       "shortfall": "0"
     },
     "0xb6c7ed161a73c80c5a5598edb74cfbbeeab0b577": {
-      "liquidity": "31713495495419646455",
+      "liquidity": "31997905365355918016",
       "shortfall": "0"
     },
     "0x4f9a1362de1e1e122c18c2b9f52f8b4e047a1d3f": {
@@ -1441,7 +1445,7 @@
       "shortfall": "0"
     },
     "0x91e9a526369667a4ffbdef5ba4a5233d8a6ff751": {
-      "liquidity": "11422592815",
+      "liquidity": "10153650451",
       "shortfall": "0"
     },
     "0xa9fdc011de33566d756d2464d45d64d15a5a8adf": {
@@ -1449,7 +1453,7 @@
       "shortfall": "0"
     },
     "0x4cfd914dc49077726dbac5885c845b0befd39f6f": {
-      "liquidity": "368370454050302329943",
+      "liquidity": "375378900243354097779",
       "shortfall": "0"
     },
     "0xb27f0c5863f17c19469e052e2cd323862ee8cde6": {
@@ -1461,7 +1465,7 @@
       "shortfall": "0"
     },
     "0xd515c09264da090e3b2127ea12ae5e7d9ad1bb2e": {
-      "liquidity": "1156844552801630255",
+      "liquidity": "1160059213271458126",
       "shortfall": "0"
     },
     "0xcd2411d84ead5c26291fe231db38b7d3f526a591": {
@@ -1470,7 +1474,7 @@
     },
     "0x04a9a45b18d568c2ebdb78c92d16821f9ed97f8f": {
       "liquidity": "0",
-      "shortfall": "254908462043790438426121"
+      "shortfall": "254535440873475829515012"
     },
     "0x833bf8d3760b38e5fc26bfda6114957d0cdfc01a": {
       "liquidity": "0",
@@ -1494,7 +1498,7 @@
     },
     "0x8c4cc942ceaf7cbde75db7690df2f359425e0de4": {
       "liquidity": "0",
-      "shortfall": "304423597567524265205951"
+      "shortfall": "306221520342302262240273"
     },
     "0xc1cbc5eccb7c3b2af21421112dc28c083b228ee2": {
       "liquidity": "0",
@@ -1509,7 +1513,7 @@
       "shortfall": "0"
     },
     "0x0e1e182c897d0fdcfe8bcf6f2e131f7f647f367d": {
-      "liquidity": "3289546195279353",
+      "liquidity": "3298687245468013",
       "shortfall": "0"
     },
     "0xf68e3906c506fd6e1951f807da5e989464ae1548": {
@@ -1517,7 +1521,7 @@
       "shortfall": "0"
     },
     "0x52a6f747949716ff60674a8a37daf20b77daef22": {
-      "liquidity": "150482035101556",
+      "liquidity": "150900197289803",
       "shortfall": "0"
     },
     "0xcb48bc015cc13c913703ab252141e8f8fdba2f34": {
@@ -1526,10 +1530,10 @@
     },
     "0xb89aafc81182111c7dce35a4a677109230c0b8a8": {
       "liquidity": "0",
-      "shortfall": "17025072801908941351"
+      "shortfall": "15390001673377011544"
     },
     "0xb8b5e1bc479269f64819343779756b89c18013c0": {
-      "liquidity": "3313873539664099650236",
+      "liquidity": "3377906024005231142075",
       "shortfall": "0"
     },
     "0x9ce7c6d8a50319a6ce62084dcf55f00044582c29": {
@@ -1537,7 +1541,7 @@
       "shortfall": "0"
     },
     "0xb8d432b145a069f95173873be6ba3ed4b7ed9821": {
-      "liquidity": "221332774732473216",
+      "liquidity": "222882632074226400",
       "shortfall": "0"
     },
     "0x4b3f301699a0b12fd47306becb2db8f679be674c": {
@@ -1546,7 +1550,7 @@
     },
     "0x47bd5f93a032d479810e8a929667670b2a30cdd7": {
       "liquidity": "0",
-      "shortfall": "360458478985850709084758"
+      "shortfall": "359433453845786004437167"
     },
     "0x5878de32c6f47526f4e2b65bd4b6573939256b43": {
       "liquidity": "0",
@@ -1565,7 +1569,7 @@
       "shortfall": "0"
     },
     "0xed3105a0ec578908ff55073a22dda66943605e3f": {
-      "liquidity": "154815096412033050784",
+      "liquidity": "154833955497551174833",
       "shortfall": "0"
     },
     "0xa3f61be2d755c710f9202dff1e778df098881bab": {
@@ -1597,7 +1601,7 @@
       "shortfall": "0"
     },
     "0xa740b5ac48dff97576050e5e4c3b581f23c0abe5": {
-      "liquidity": "684218686339849110135",
+      "liquidity": "716914632292127834449",
       "shortfall": "0"
     },
     "0x828b3996dec4b46dbf4465477942918fbf6bac9b": {
@@ -1613,11 +1617,11 @@
       "shortfall": "0"
     },
     "0xb2ce2b65f1af37bf4da4b688c92436d429b08da9": {
-      "liquidity": "162145397029916358770",
+      "liquidity": "162595969578263757705",
       "shortfall": "0"
     },
     "0xd06cccbd08b1508174d391db59dffbe3515a0f34": {
-      "liquidity": "40639317127269631431",
+      "liquidity": "16921456591032662525",
       "shortfall": "0"
     },
     "0xb21e5c380d8ab70551b8428143512556ed592b3f": {
@@ -1638,18 +1642,18 @@
     },
     "0xcacf64bbef0ca832993b843458ba53660ae19f2e": {
       "liquidity": "0",
-      "shortfall": "2194173233207537070104364"
+      "shortfall": "2192434929206720384682525"
     },
     "0x9636cc389804d6afcc1c1f349571319728399886": {
-      "liquidity": "464901673085431",
+      "liquidity": "72411392092619562632",
       "shortfall": "0"
     },
     "0xff4a629f14999ee80347a956c04e09193a9e67d1": {
-      "liquidity": "27607686285561",
+      "liquidity": "27684403021228",
       "shortfall": "0"
     },
     "0x0eec5fb25160819bc9fbc8025cbc87097c6aba47": {
-      "liquidity": "152494816244356",
+      "liquidity": "152556101167912",
       "shortfall": "0"
     },
     "0x95c1e4f5ad2460245bd9b478b3fe534bf8f352c6": {
@@ -1673,11 +1677,11 @@
       "shortfall": "0"
     },
     "0x287578c2832b10b628d0da4ced302ca0d3b75f1a": {
-      "liquidity": "99677229229933744",
+      "liquidity": "99786971527799516",
       "shortfall": "0"
     },
     "0x48293c4402a1ee6f78bdcb95a49d08b1fac42038": {
-      "liquidity": "8085236604409877",
+      "liquidity": "8107704005443540",
       "shortfall": "0"
     },
     "0x4308910c6b091632733883cf51e3216d28c16b21": {
@@ -1686,7 +1690,7 @@
     },
     "0x2d9954d78ad92e95d738369ff9394cf1687c5796": {
       "liquidity": "0",
-      "shortfall": "5384656282274111018725"
+      "shortfall": "5410096137427009446092"
     },
     "0x52570284f4ac065d7786bdd21d1b650f0fe1a532": {
       "liquidity": "0",
@@ -1706,7 +1710,7 @@
     },
     "0xe92a405afa5f6a1b55f87f4bff1dd03bfcb144c3": {
       "liquidity": "0",
-      "shortfall": "64929857922541817477"
+      "shortfall": "151810112782604831014"
     },
     "0x63b4b9081e9eff9498421998913702c350f0a09c": {
       "liquidity": "0",
@@ -1717,12 +1721,12 @@
       "shortfall": "0"
     },
     "0xf81ed26699f13cd2d93b9b79d2efcef6e5dbf745": {
-      "liquidity": "550087920147007384",
+      "liquidity": "141374438470",
       "shortfall": "0"
     },
     "0x085becd01d2b74a9a74c43b7844173eafe512cd3": {
       "liquidity": "0",
-      "shortfall": "830857711388673474831727"
+      "shortfall": "832362394940567656448965"
     },
     "0x1f3f0464d60df0715211f2ad4f28b8ec684bf5fd": {
       "liquidity": "0",
@@ -1734,14 +1738,14 @@
     },
     "0xe7e4070eb09e691df4c48efe5d484086e7a2bcd5": {
       "liquidity": "0",
-      "shortfall": "834766940423396504748379"
+      "shortfall": "841038513580126468435479"
     },
     "0x5da62850cf67a537c63f764603f746a8e7053741": {
       "liquidity": "0",
-      "shortfall": "16990393136709539660"
+      "shortfall": "155758264361988001044"
     },
     "0xacf06964108bd04e79e0b2ce39139e3e76c3a217": {
-      "liquidity": "810435391128862327",
+      "liquidity": "812687443583880613",
       "shortfall": "0"
     },
     "0x3c06601a9605d41a81df6e3f65208d82fcc411d8": {
@@ -1749,23 +1753,23 @@
       "shortfall": "0"
     },
     "0x90123fac1af70ac09bf90a26635369eda7abdb48": {
-      "liquidity": "43411304158515433590234",
+      "liquidity": "43562286099323770586707",
       "shortfall": "0"
     },
     "0x55a8309865361d060cd4b2b3316955ce10d90bc8": {
       "liquidity": "0",
-      "shortfall": "34934786792160653054253"
+      "shortfall": "35055584590253896586121"
     },
     "0x1d1418e86a99b668739a8b2194fda0ed6204165a": {
-      "liquidity": "40584145676128081686",
+      "liquidity": "40696921630763324732",
       "shortfall": "0"
     },
     "0x73f85a0b5608fb777baf932d3ec833e5302d785b": {
-      "liquidity": "14733291470204147292",
+      "liquidity": "14774232605782834604",
       "shortfall": "0"
     },
     "0xf940ce19b9cd0b9efd586381b488cefb75eb413f": {
-      "liquidity": "9465170907727888781710",
+      "liquidity": "9250871338406782842282",
       "shortfall": "0"
     },
     "0xf2aa73346195f652b29b9d181becd5919b78950b": {
@@ -1784,16 +1788,32 @@
       "liquidity": "0",
       "shortfall": "0"
     },
+    "0x8e8665be566a0953bbedaca5d6261f2f33113ff1": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0xfba7cebb6842ce23d7b28ac6337ac1e4fc3ebfa0": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
+    "0x560decb1e08d17e937a7e89b93a24c9481d40a5a": {
+      "liquidity": "156356811350503632",
+      "shortfall": "0"
+    },
+    "0xc1f97d466b9fd61f10fd5f759982422475094092": {
+      "liquidity": "0",
+      "shortfall": "0"
+    },
     "0xeecc1ee8e978ad35148824c3fdb5c3f80ab5f9f5": {
       "liquidity": "0",
       "shortfall": "0"
     },
     "0xeea30dfeab54a05434967f4540cddcd61dca2d21": {
-      "liquidity": "109264053934969",
+      "liquidity": "109374932266348",
       "shortfall": "0"
     },
     "0xf18c4f55e586b1c2c6391edbe7314b6f00bd5652": {
-      "liquidity": "25572899535181",
+      "liquidity": "25598849968371",
       "shortfall": "0"
     },
     "0x9492c313f500319e87937f1da86b7938757627ad": {
@@ -1817,7 +1837,7 @@
       "shortfall": "0"
     },
     "0xa2301baa90bea0405d69912adc32aa4828e2f14b": {
-      "liquidity": "17405906806257074986",
+      "liquidity": "17596160611862449191",
       "shortfall": "0"
     },
     "0x4401b6950bd9ff9109ef8e7c6d2b7d83d65bbd51": {
@@ -1825,7 +1845,7 @@
       "shortfall": "0"
     },
     "0xb5b4a1378e98f73683884e240734bee3cf195ffd": {
-      "liquidity": "161736011923008602836",
+      "liquidity": "161900137438035194936",
       "shortfall": "0"
     },
     "0xa432af5f934a6b5d7aeaa4dbcc74c1ce32ad8667": {
@@ -1833,7 +1853,7 @@
       "shortfall": "0"
     },
     "0x3986e0a53525a347c22c694a793e3b7b7d081b66": {
-      "liquidity": "1040347228089839757",
+      "liquidity": "0",
       "shortfall": "0"
     },
     "0x1a12459b5d9d8f37038205079787f05495254545": {
@@ -1842,7 +1862,7 @@
     },
     "0x893c78d3450deca3327c7d828f051eddb09264e0": {
       "liquidity": "0",
-      "shortfall": "263861991129880322755370"
+      "shortfall": "264319460929676952852014"
     },
     "0x9b3274d6809e1edeb53b9810ec6f33f28a505fc5": {
       "liquidity": "0",
@@ -1850,7 +1870,7 @@
     },
     "0xeacbfed2dea70f94918b21407e1e81b08acc53a5": {
       "liquidity": "0",
-      "shortfall": "1276915754211994442316974"
+      "shortfall": "1278254608388975751701919"
     },
     "0x0e54edd4cf6568de41fc67eaa71aeb52885999c7": {
       "liquidity": "0",
@@ -1865,7 +1885,7 @@
       "shortfall": "0"
     },
     "0xe480d4e05c8c32dc3c00a20add4560e482fc33b1": {
-      "liquidity": "1044729658340042224",
+      "liquidity": "928670043558971840",
       "shortfall": "0"
     },
     "0xe9479b2b6bbb083df406410f544b90e9ea20f7d7": {
@@ -1873,7 +1893,7 @@
       "shortfall": "0"
     },
     "0xe222e60a18fd718a33734c18f692df7364af4e0d": {
-      "liquidity": "568651344653650230222",
+      "liquidity": "483433137151102643621",
       "shortfall": "0"
     },
     "0x723be2d5a2808415e8e9d51b532190390663e94c": {
@@ -1885,23 +1905,23 @@
       "shortfall": "0"
     },
     "0xaed0577301dfb0df8dad5ebb65c3895d59708c3f": {
-      "liquidity": "79182483516485",
+      "liquidity": "63937319006388",
       "shortfall": "0"
     },
     "0x9890a25966edf68f116cddae9a021d043950c03d": {
-      "liquidity": "13293539305133",
+      "liquidity": "11836208882478",
       "shortfall": "0"
     },
     "0xa1eb64b1ae53f838f283736f92bb87ad29beea76": {
-      "liquidity": "154566800431",
+      "liquidity": "156852341908",
       "shortfall": "0"
     },
     "0xc9a6155c6d2e215012fcc8d91953ee5e6c4dc30b": {
-      "liquidity": "283574936185341109740",
+      "liquidity": "287768093356324814996",
       "shortfall": "0"
     },
     "0x7d551b4aa5938d18be5c5e9fde7fece9566611ba": {
-      "liquidity": "154566800431",
+      "liquidity": "156852341908",
       "shortfall": "0"
     },
     "0x231431d35bd4dd4d2f1355f04ee55cf9c585e057": {
@@ -1930,7 +1950,7 @@
     },
     "0xd2753ec81dbfb6d52868a4c06b37ebb57433c84c": {
       "liquidity": "0",
-      "shortfall": "134219539991529983342"
+      "shortfall": "46872608309885907846"
     },
     "0x0233760ac2ae6fa40dc3864ea95f7721cae8ed2d": {
       "liquidity": "0",
@@ -1942,7 +1962,7 @@
     },
     "0xd3372247cd0897f9cbc543e35db4561cbfedb0b3": {
       "liquidity": "0",
-      "shortfall": "1878019101545200476367744"
+      "shortfall": "1907119867571066758531842"
     },
     "0x4505efa75675d69fd5201e42759af23974f14129": {
       "liquidity": "0",
@@ -1961,15 +1981,15 @@
       "shortfall": "0"
     },
     "0xdccdf21ee6a0a42dc99901ce2aafac266c2dc22c": {
-      "liquidity": "159136888287618803",
+      "liquidity": "159197337083350859",
       "shortfall": "0"
     },
     "0xe82aded6889b7b610a8a415d83c36c3d4b9a6b29": {
       "liquidity": "0",
-      "shortfall": "4077255173176442432983"
+      "shortfall": "4138624449057107817793"
     },
     "0xef3f063136fe5002065bf7c4a2d85ff34cfb0ac0": {
-      "liquidity": "1327493333425",
+      "liquidity": "1328026829117",
       "shortfall": "0"
     },
     "0x6b30e020e9517c519c408f51c2593e12d55b55fa": {
@@ -1977,7 +1997,7 @@
       "shortfall": "0"
     },
     "0x0d1876f223a02257f02efddfbfc350022b33220f": {
-      "liquidity": "372792014523415",
+      "liquidity": "372941832928231",
       "shortfall": "0"
     },
     "0x8e9a57bbcbf2df7d58130a55a697c4385af1044a": {
@@ -1990,11 +2010,11 @@
     },
     "0x991e2e2e5fb87656aa4504e318a8723ff701118e": {
       "liquidity": "0",
-      "shortfall": "191878644229921848087410"
+      "shortfall": "192403275416647375176559"
     },
     "0x572612eb5aee423a3ae20760cfa43504dfd5c631": {
       "liquidity": "0",
-      "shortfall": "109162879552539055"
+      "shortfall": "111089612946351852"
     },
     "0xbbab2ca3df54726d3f484afff85708c0075a4400": {
       "liquidity": "0",
@@ -2030,7 +2050,7 @@
     },
     "0xcc01839934df2a7187d17865ead83f4958c7b3d6": {
       "liquidity": "0",
-      "shortfall": "156290993571302078562652"
+      "shortfall": "155492153184968527231226"
     },
     "0xdb74d9e2dd9233a311a78eed64c7ee9a7e37f081": {
       "liquidity": "0",
@@ -2038,7 +2058,7 @@
     },
     "0xbebfa13d4b1dd3dd1676566bd65153c1521b0b8d": {
       "liquidity": "0",
-      "shortfall": "20435848362838067073755"
+      "shortfall": "19137858988926948114293"
     },
     "0xda386fc4a86965148d80e4afa1ebfd26e5c9e68b": {
       "liquidity": "0",
@@ -2061,7 +2081,7 @@
       "shortfall": "0"
     },
     "0x03e527055944b50f0f48eafd2273414c0727c668": {
-      "liquidity": "50061163276",
+      "liquidity": "44499840039",
       "shortfall": "0"
     },
     "0x59459031841b38ce4e48830ca52be4addfbb1d90": {
@@ -2082,10 +2102,10 @@
     },
     "0x61250b2ac7a2ca6c1ff2d151a2cf8fd318298580": {
       "liquidity": "0",
-      "shortfall": "20995638392814507905631"
+      "shortfall": "21331434488896622367864"
     },
     "0xe214e08e62c4e405f39ba74f9cceae2f78f6673c": {
-      "liquidity": "120751529939467275",
+      "liquidity": "127439369908501429",
       "shortfall": "0"
     },
     "0xa24eeae9f1c57da937b070706ff0db2c70bb61b4": {
@@ -2097,7 +2117,7 @@
       "shortfall": "0"
     },
     "0xcccd8e327bf88bc793337e0270d368d814c3c165": {
-      "liquidity": "7862512223",
+      "liquidity": "6989061247",
       "shortfall": "0"
     },
     "0x6f0ca88060f91b5ef839be5a7211293bfc27c06c": {
@@ -2105,7 +2125,7 @@
       "shortfall": "0"
     },
     "0xd7adb6402af22a17ddc03400c851d9f1ae1837e0": {
-      "liquidity": "103933960097974852",
+      "liquidity": "92387877075111203",
       "shortfall": "0"
     },
     "0x43d897835499a05f6175579a26eab4b711936396": {
@@ -2118,7 +2138,7 @@
     },
     "0x9c97ae989ec58eae45643b82936dd89dda4effd8": {
       "liquidity": "0",
-      "shortfall": "38213038853273603575142"
+      "shortfall": "37215706879587472174185"
     },
     "0x4c61f3259d705323c7f27377da09a3e222ecde66": {
       "liquidity": "0",
@@ -2129,7 +2149,7 @@
       "shortfall": "0"
     },
     "0x21e5a2f000f6b1680addb810193b7233740cf980": {
-      "liquidity": "23038754465593",
+      "liquidity": "20479366065956",
       "shortfall": "0"
     },
     "0x0d7497b25172314a575a3f4d99a46df2f43ddaad": {
@@ -2181,7 +2201,7 @@
       "shortfall": "0"
     },
     "0x77be26bfa2c4e1c052db0be89cbebbe0e97e6ab7": {
-      "liquidity": "160484307980277",
+      "liquidity": "142656014494102",
       "shortfall": "0"
     },
     "0x5ae825e3d6582514d73aa9e768fa2f5d2f8cbfc2": {
@@ -2197,11 +2217,11 @@
       "shortfall": "0"
     },
     "0xe6d2032ac650850428e664e7680e9c8408971303": {
-      "liquidity": "10646015944042437",
+      "liquidity": "9463343948895019",
       "shortfall": "0"
     },
     "0xd0846d7d06f633b2be43766e434edf0ace9ba909": {
-      "liquidity": "10446167870882417",
+      "liquidity": "9285697112390369",
       "shortfall": "0"
     },
     "0x15e4d48d55410d6c4682aaa7a685fa0ab54a9f1a": {
@@ -2253,11 +2273,11 @@
       "shortfall": "0"
     },
     "0xfed3a074b6da0b753e5fc79f3e23297d97e73ce4": {
-      "liquidity": "41581666549226",
+      "liquidity": "36962335449421",
       "shortfall": "0"
     },
     "0xae327ed5c469e7a4668f250f4d91423f1be05b41": {
-      "liquidity": "851718149391921011",
+      "liquidity": "757100293441000507",
       "shortfall": "0"
     },
     "0x41eaf203c93e375fd99d83e15cb1d4a91853c3cc": {
@@ -2265,7 +2285,7 @@
       "shortfall": "0"
     },
     "0x29ecaa773f052d14ec5258b352ee7304f57aabc3": {
-      "liquidity": "11434664315072124",
+      "liquidity": "10164380921694798",
       "shortfall": "0"
     },
     "0xe55aa300e1223931c046d0e2e1b5ed3e5bc026b6": {
@@ -2273,11 +2293,11 @@
       "shortfall": "0"
     },
     "0x9b87e1fd164e70e6fa8c7fbee5943c2532f7834b": {
-      "liquidity": "10394922181312719",
+      "liquidity": "9240144335760559",
       "shortfall": "0"
     },
     "0x0cbed8abc576861460a77998a4e020946665f432": {
-      "liquidity": "26805760870376",
+      "liquidity": "23827893576484",
       "shortfall": "0"
     },
     "0x047e3e2d99cd84b2d47a7c57cfe9c43c9ce1297b": {
@@ -2293,11 +2313,11 @@
       "shortfall": "0"
     },
     "0x4caf4e32647ee0b34eca3c203a2203f606f0624e": {
-      "liquidity": "8946479786579483982",
+      "liquidity": "8976533663545206006",
       "shortfall": "0"
     },
     "0x2234e29edbad60d0329ec8882c0202cb8d7f93cb": {
-      "liquidity": "11707783790",
+      "liquidity": "10407159398",
       "shortfall": "0"
     },
     "0x4513fba4f19b7d4d3508931f2fef853740957760": {
@@ -2314,7 +2334,7 @@
     },
     "0xc63d7ac0ba77fd7ac917ac28ccef80951cb5eeda": {
       "liquidity": "0",
-      "shortfall": "46732415600106886063611"
+      "shortfall": "46470299483593982636746"
     },
     "0x2def61ac775df19ae12cf41909795aadb8a334c0": {
       "liquidity": "0",
@@ -2338,7 +2358,7 @@
     },
     "0x333ee98d84b087208353038e10e1b4600a0a3967": {
       "liquidity": "0",
-      "shortfall": "7667177772320111634"
+      "shortfall": "7698800897848122428"
     },
     "0xbef5a60f53b563dc12d32c5f081fd989fc8bffc8": {
       "liquidity": "0",
@@ -2832,12 +2852,8 @@
       "liquidity": "0",
       "shortfall": "0"
     },
-    "0xfba7cebb6842ce23d7b28ac6337ac1e4fc3ebfa0": {
-      "liquidity": "0",
-      "shortfall": "0"
-    },
     "0xe97dbb57994dd8c18fbbfb804f5486b2bb5d3f4d": {
-      "liquidity": "39143328463",
+      "liquidity": "39274822504",
       "shortfall": "0"
     },
     "0xf18d3386444dfffcad972b22b16e6688510b5522": {
@@ -2869,11 +2885,11 @@
       "shortfall": "0"
     },
     "0xc480fa7faf9e22b4756287770e9af51716b0d335": {
-      "liquidity": "279904380737547",
+      "liquidity": "280844662504401",
       "shortfall": "0"
     },
     "0xaf535f8a3ee6c85622ab86f72697fad26fa15f2d": {
-      "liquidity": "62306647164932188926",
+      "liquidity": "57443016376582514159",
       "shortfall": "0"
     },
     "0x74e5177e02aca912e29362462989c56a3b38b33a": {
@@ -3083,5 +3099,5 @@
   },
   "liquidation_incentive": "1050000000000000000",
   "close_factor": "550000000000000000",
-  "block_updated": 16849465
+  "block_updated": 16898521
 }

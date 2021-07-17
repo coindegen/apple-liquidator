@@ -35,7 +35,7 @@ export const AccountsTable: FC = () => {
 
   const [filterValue, setFilterValue] = useState<FilterValues>("unhealthy");
 
-  function setFilter(val: string) {
+  function setFilter(val: FilterValues) {
     switch (val) {
       case "all":
         setAccounts(allAccounts.accounts);
@@ -76,7 +76,7 @@ export const AccountsTable: FC = () => {
           value={filterValue}
           onChange={(e) => {
             setFilterValue(e.target.value as FilterValues);
-            setFilter(e.target.value);
+            setFilter(e.target.value as FilterValues);
           }}
         >
           <option value="unhealthy">Unhealthy</option>
