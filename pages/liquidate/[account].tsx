@@ -404,29 +404,28 @@ const AppUI: FC<{ account: string }> = ({ account = "" }) => {
 
 const BalanceData: FC<{ walletInfo: IWalletInfo }> = ({ walletInfo }) => {
   return (
-    <div className="mt-8 lg:mt-20 px-5">
-      <div className="grid grid-cols-3 text-right mb-10 space-y-2">
+    <div className="mt-8 lg:mt-16 px-5 w-1/3">
+      <div className="grid grid-cols-2 text-right mb-10 space-y-2">
         <Fragment>
-          <div className="font-semibold text-left">Status</div>
-          <div className="font-semibold text-right">Amount (wei)</div>
-          <div className="font-semibold text-right">Amount</div>
+          <div className="font-semibold text-left"></div>
+          <div className="font-semibold text-right">Amount (USD)</div>
         </Fragment>
         <Fragment>
-          <div className="text-left">Liquidity</div>
-          <div className="text-right font-mono">
-            {walletInfo.status.liquidity}
-          </div>
+          <div className="text-left font-semibold">Liquidity</div>
           <div className="text-right font-mono">
             {formatNumber(+Web3.utils.fromWei(walletInfo.status.liquidity))}
           </div>
         </Fragment>
         <Fragment>
-          <div className="text-left">Shortfall</div>
-          <div className="text-right font-mono">
-            {walletInfo.status.shortfall}
-          </div>
-          <div className="text-right font-mono">
-            {Number(Web3.utils.fromWei(walletInfo.status.shortfall)).toFixed(2)}
+          <div className="text-left font-semibold">Shortfall</div>
+          <div
+            id={walletInfo.status.shortfall}
+            className="text-right font-mono"
+          >
+            $
+            {Number(
+              Number(Web3.utils.fromWei(walletInfo.status.shortfall)).toFixed(2)
+            ).toLocaleString()}
           </div>
         </Fragment>
       </div>
