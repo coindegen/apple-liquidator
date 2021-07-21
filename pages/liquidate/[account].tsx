@@ -123,6 +123,9 @@ const getTokenBalanceByAccount: (
 
   const lendBalance = accountSnapshot[1];
   const borrowBalance = accountSnapshot[2];
+  // const exchangeRateStored = accountSnapshot[3];
+
+  // console.log({ borrowBalance, lendBalance });
 
   // console.log({ borrowBalance, lendBalance });
 
@@ -149,13 +152,23 @@ const getTokenBalanceByAccount: (
     return +amount * (+exchangeRate / Math.pow(10, 18));
   };
 
-  const lendValueUnderlyingRaw = getValueUnderlyingRaw(
-    lendBalance,
+  // ["aUSDC", "aUSDT"]
+  const exceptionalTokens = [
+    "0x92af72ec27eb22a966c67a87be33c342acc0b77a",
+    "0x2c538d3c1b7a2ef785e915cca844bba22d7de19d",
+  ];
+
+  const denominator = exceptionalTokens.includes(asset.toLowerCase())
+    ? Math.pow(10, -4)
+    : Math.pow(10, +decimals);
+
+  const borrowValueUnderlyingRaw = getValueUnderlyingRaw(
+    (+borrowBalance / denominator).toString(),
     exchangeRateCurrent
   );
 
-  const borrowValueUnderlyingRaw = getValueUnderlyingRaw(
-    (+borrowBalance / Math.pow(10, +decimals)).toString(),
+  const lendValueUnderlyingRaw = getValueUnderlyingRaw(
+    lendBalance,
     exchangeRateCurrent
   );
 
@@ -404,7 +417,7 @@ const AppUI: FC<{ account: string }> = ({ account = "" }) => {
 
 const BalanceData: FC<{ walletInfo: IWalletInfo }> = ({ walletInfo }) => {
   return (
-    <div className="mt-8 lg:mt-16 px-5 w-1/3">
+    <div className="mt-8 lg:mt-16 px-5 w-full lg:w-1/3">
       <div className="grid grid-cols-2 text-right mb-10 space-y-2">
         <Fragment>
           <div className="font-semibold text-left"></div>
