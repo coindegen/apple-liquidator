@@ -127,6 +127,8 @@ const getTokenBalanceByAccount: (
 
   // console.log({ borrowBalance, lendBalance });
 
+  // console.log({ borrowBalance, lendBalance });
+
   if (+lendBalance <= 0 && +borrowBalance <= 0) {
     return null;
   }
@@ -415,7 +417,11 @@ const AppUI: FC<{ account: string }> = ({ account = "" }) => {
 
 const BalanceData: FC<{ walletInfo: IWalletInfo }> = ({ walletInfo }) => {
   return (
+<<<<<<< HEAD
     <div className="mt-8 lg:mt-16 px-5 w-full lg:w-1/3">
+=======
+    <div className="mt-8 lg:mt-16 px-5 w-1/3">
+>>>>>>> coindegen/master
       <div className="grid grid-cols-2 text-right mb-10 space-y-2">
         <Fragment>
           <div className="font-semibold text-left"></div>
