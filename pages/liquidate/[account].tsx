@@ -150,11 +150,6 @@ const getTokenBalanceByAccount: (
     return +amount * (+exchangeRate / Math.pow(10, 18));
   };
 
-  const lendValueUnderlyingRaw = getValueUnderlyingRaw(
-    lendBalance,
-    exchangeRateCurrent
-  );
-
   // ["aUSDC", "aUSDT"]
   const exceptionalTokens = [
     "0x92af72ec27eb22a966c67a87be33c342acc0b77a",
@@ -167,6 +162,11 @@ const getTokenBalanceByAccount: (
 
   const borrowValueUnderlyingRaw = getValueUnderlyingRaw(
     (+borrowBalance / denominator).toString(),
+    exchangeRateCurrent
+  );
+
+  const lendValueUnderlyingRaw = getValueUnderlyingRaw(
+    lendBalance,
     exchangeRateCurrent
   );
 
